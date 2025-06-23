@@ -1,0 +1,1536 @@
+fileFormatVersion: 2
+guid: e6a80f13bd8bacc4da021dd79c4c4631
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: Industrial Walls Zone 2 Revision_3
+  - first:
+      213: 21300002
+    second: Industrial Walls Zone 2 Revision_4
+  - first:
+      213: 21300004
+    second: Industrial Walls Zone 2 Revision_5
+  - first:
+      213: 21300006
+    second: Industrial Walls Zone 2 Revision_6
+  - first:
+      213: 21300008
+    second: Industrial Walls Zone 2 Revision_7
+  - first:
+      213: 21300010
+    second: Industrial Walls Zone 2 Revision_8
+  - first:
+      213: 21300012
+    second: Industrial Walls Zone 2 Revision_9
+  - first:
+      213: 21300014
+    second: Industrial Walls Zone 2 Revision_10
+  - first:
+      213: 21300016
+    second: Industrial Walls Zone 2 Revision_11
+  - first:
+      213: 21300018
+    second: Industrial Walls Zone 2 Revision_12
+  - first:
+      213: 21300020
+    second: Industrial Walls Zone 2 Revision_13
+  - first:
+      213: 21300022
+    second: Industrial Walls Zone 2 Revision_14
+  - first:
+      213: 21300024
+    second: Industrial Walls Zone 2 Revision_15
+  - first:
+      213: 21300026
+    second: Industrial Walls Zone 2 Revision_16
+  - first:
+      213: 21300028
+    second: Industrial Walls Zone 2 Revision_17
+  - first:
+      213: 21300030
+    second: Industrial Walls Zone 2 Revision_18
+  - first:
+      213: 21300032
+    second: Industrial Walls Zone 2 Revision_19
+  - first:
+      213: 21300034
+    second: Industrial Walls Zone 2 Revision_20
+  - first:
+      213: 21300036
+    second: Industrial Walls Zone 2 Revision_21
+  - first:
+      213: 21300038
+    second: Industrial Walls Zone 2 Revision_22
+  - first:
+      213: 21300040
+    second: Industrial Walls Zone 2 Revision_23
+  - first:
+      213: 21300042
+    second: Industrial Walls Zone 2 Revision_24
+  - first:
+      213: 21300044
+    second: Industrial Walls Zone 2 Revision_25
+  - first:
+      213: 21300046
+    second: Industrial Walls Zone 2 Revision_26
+  - first:
+      213: 21300048
+    second: Industrial Walls Zone 2 Revision_27
+  - first:
+      213: 21300050
+    second: Industrial Walls Zone 2 Revision_28
+  - first:
+      213: 21300052
+    second: Industrial Walls Zone 2 Revision_29
+  - first:
+      213: 21300054
+    second: Industrial Walls Zone 2 Revision_30
+  - first:
+      213: 21300056
+    second: Industrial Walls Zone 2 Revision_31
+  - first:
+      213: 21300058
+    second: Industrial Walls Zone 2 Revision_0
+  - first:
+      213: 21300060
+    second: Industrial Walls Zone 2 Revision_1
+  - first:
+      213: 21300062
+    second: Industrial Walls Zone 2 Revision_2
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: tvOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Industrial Walls Zone 2 Revision_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5313
+        width: 3107
+        height: 831
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 985.5, y: -254.5}
+        - {x: 930.5, y: -322.5}
+        - {x: 743.5, y: -328.5}
+        - {x: 672.5, y: -251.5}
+        - {x: 227.5, y: -250.5}
+        - {x: 173.5, y: -326.5}
+        - {x: -18.5, y: -325.5}
+        - {x: -83.5, y: -250.5}
+        - {x: -500.5, y: -251.5}
+        - {x: -561.5, y: -327.5}
+        - {x: -734.5, y: -325.5}
+        - {x: -813.5, y: -250.5}
+        - {x: -947.5, y: -249.5}
+        - {x: -1290.5, y: 16.5}
+        - {x: -1367.5, y: 250.5}
+        - {x: 1517.5, y: 254.5}
+        - {x: 1442.5, y: 12.5}
+        - {x: 1089.5, y: -255.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: e49b0da56f2975546aa2bca2a2ee9a18
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Industrial Walls Zone 2 Revision_4
+      rect:
+        serializedVersion: 2
+        x: 3198
+        y: 5756
+        width: 355
+        height: 250
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -108.5, y: -88}
+        - {x: -97.5, y: 52}
+        - {x: 104.5, y: 50}
+        - {x: 111.5, y: -90}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 324212e370a272a41a0baf950c0a8c5a
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Industrial Walls Zone 2 Revision_5
+      rect:
+        serializedVersion: 2
+        x: 3192
+        y: 5526
+        width: 364
+        height: 226
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -93, y: -80}
+        - {x: -103, y: 1}
+        - {x: -91, y: 84}
+        - {x: 112, y: 85}
+        - {x: 119, y: 4}
+        - {x: 111, y: -81}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f71c3c1a7242e548b567c1182766de3
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Industrial Walls Zone 2 Revision_6
+      rect:
+        serializedVersion: 2
+        x: 3560
+        y: 5529
+        width: 391
+        height: 457
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -110.5, y: -167.5}
+        - {x: -98.5, y: -27.5}
+        - {x: -91.5, y: -8.5}
+        - {x: -109.5, y: 15.5}
+        - {x: -120.5, y: 44.5}
+        - {x: -123.5, y: 86.5}
+        - {x: -107.5, y: 133.5}
+        - {x: -66.5, y: 177.5}
+        - {x: -23.5, y: 194.5}
+        - {x: 31.5, y: 194.5}
+        - {x: 88.5, y: 165.5}
+        - {x: 120.5, y: 117.5}
+        - {x: 127.5, y: 65.5}
+        - {x: 114.5, y: 17.5}
+        - {x: 100.5, y: -3.5}
+        - {x: 105.5, y: -26.5}
+        - {x: 115.5, y: -169.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8cb4c30f4bacdb40b44d35d89c16eac
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Industrial Walls Zone 2 Revision_7
+      rect:
+        serializedVersion: 2
+        x: 3951
+        y: 5709
+        width: 731
+        height: 435
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -249.5, y: -161.5}
+        - {x: -248.5, y: -99.5}
+        - {x: -231.5, y: -81.5}
+        - {x: -229.5, y: 168.5}
+        - {x: 258.5, y: 171.5}
+        - {x: 262.5, y: -68.5}
+        - {x: 271.5, y: -95.5}
+        - {x: 271.5, y: -163.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 924d5e8b3b3df114680e2e289be2c529
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Industrial Walls Zone 2 Revision_8
+      rect:
+        serializedVersion: 2
+        x: 1542
+        y: 4015
+        width: 564
+        height: 1063
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -31, y: -121.5}
+        - {x: -34, y: -476.5}
+        - {x: -229, y: -477.5}
+        - {x: -230, y: -122.5}
+        - {x: -211, y: -113.5}
+        - {x: -213, y: 128.5}
+        - {x: -237, y: 142.5}
+        - {x: -237, y: 491.5}
+        - {x: -40, y: 490.5}
+        - {x: -42, y: 135.5}
+        - {x: -18, y: 99.5}
+        - {x: 226, y: 93.5}
+        - {x: 266, y: 4.5}
+        - {x: 224, y: -101.5}
+        - {x: -12, y: -100.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: f87253820a2b85e41b83f96394a4bcb5
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Industrial Walls Zone 2 Revision_9
+      rect:
+        serializedVersion: 2
+        x: 2102
+        y: 3862
+        width: 345
+        height: 1376
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -137.5, y: -637}
+        - {x: -134.5, y: -286}
+        - {x: -114.5, y: -278}
+        - {x: -114.5, y: 284}
+        - {x: -137.5, y: 291}
+        - {x: -137.5, y: 643}
+        - {x: 53.5, y: 645}
+        - {x: 58.5, y: 290}
+        - {x: 34.5, y: 282}
+        - {x: 35.5, y: -278}
+        - {x: 61.5, y: -284}
+        - {x: 65.5, y: -637}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34729bd9cded0bc4db27f67102691bd1
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Industrial Walls Zone 2 Revision_10
+      rect:
+        serializedVersion: 2
+        x: 2449
+        y: 3865
+        width: 341
+        height: 1357
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -101.5, y: -624.5}
+        - {x: -97.5, y: -276.5}
+        - {x: -78.5, y: -265.5}
+        - {x: -77.5, y: 288.5}
+        - {x: -107.5, y: 310.5}
+        - {x: -104.5, y: 652.5}
+        - {x: 98.5, y: 649.5}
+        - {x: 94.5, y: 366.5}
+        - {x: 97.5, y: 304.5}
+        - {x: 71.5, y: 291.5}
+        - {x: 71.5, y: -266.5}
+        - {x: 101.5, y: -279.5}
+        - {x: 101.5, y: -624.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: b526173bc5b0cb24e9ead2d3a58e285c
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Industrial Walls Zone 2 Revision_11
+      rect:
+        serializedVersion: 2
+        x: 2842
+        y: 4031
+        width: 1100
+        height: 1205
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 145, y: -483.5}
+        - {x: 123, y: -465.5}
+        - {x: -134, y: -464.5}
+        - {x: -208, y: -450.5}
+        - {x: -301, y: -410.5}
+        - {x: -375, y: -354.5}
+        - {x: -424, y: -293.5}
+        - {x: -462, y: -209.5}
+        - {x: -483, y: -87.5}
+        - {x: -488, y: 196.5}
+        - {x: -502, y: 215.5}
+        - {x: -499, y: 567.5}
+        - {x: -301, y: 565.5}
+        - {x: -303.5, y: 209.5}
+        - {x: -316, y: 200.5}
+        - {x: -306, y: -146.5}
+        - {x: -276, y: -213.5}
+        - {x: -206, y: -272.5}
+        - {x: -133, y: -297.5}
+        - {x: 127, y: -297.5}
+        - {x: 139, y: -280.5}
+        - {x: 488, y: -280.5}
+        - {x: 486, y: -483.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63d09a02e5979af4faee82c425dd9ec1
+      internalID: 21300016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Industrial Walls Zone 2 Revision_12
+      rect:
+        serializedVersion: 2
+        x: 4984
+        y: 3692
+        width: 1141
+        height: 1522
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 432.5, y: -682}
+        - {x: -432.5, y: -685}
+        - {x: -529.5, y: -595}
+        - {x: -526.5, y: 264}
+        - {x: -421.5, y: 514}
+        - {x: -326.5, y: 547}
+        - {x: -313.5, y: 562}
+        - {x: -291.5, y: 606}
+        - {x: -293.5, y: 733}
+        - {x: -181.5, y: 679}
+        - {x: -134.5, y: 615}
+        - {x: -79.5, y: 606}
+        - {x: -45.5, y: 619}
+        - {x: -0.5, y: 603}
+        - {x: 83.5, y: 660}
+        - {x: 189.5, y: 629}
+        - {x: 267.5, y: 659}
+        - {x: 372.5, y: 745}
+        - {x: 410.5, y: 625}
+        - {x: 425.5, y: 557}
+        - {x: 483.5, y: 505}
+        - {x: 463.5, y: 426}
+        - {x: 543.5, y: 302}
+        - {x: 547.5, y: -590}
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba8b9f9e42b844345bb31aa99c34b499
+      internalID: 21300018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Industrial Walls Zone 2 Revision_13
+      rect:
+        serializedVersion: 2
+        x: 5441
+        y: 5497
+        width: 631
+        height: 647
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 234.5, y: -234.5}
+        - {x: -259.5, y: -237.5}
+        - {x: -278.5, y: -223.5}
+        - {x: -281.5, y: -165.5}
+        - {x: -267.5, y: -150.5}
+        - {x: -262.5, y: -97.5}
+        - {x: -247.5, y: -40.5}
+        - {x: -211.5, y: 19.5}
+        - {x: -168.5, y: 75.5}
+        - {x: -113.5, y: 113.5}
+        - {x: -117.5, y: 213.5}
+        - {x: -125.5, y: 230.5}
+        - {x: -124.5, y: 247.5}
+        - {x: 89.5, y: 247.5}
+        - {x: 89.5, y: 226.5}
+        - {x: 78.5, y: 212.5}
+        - {x: 79.5, y: 111.5}
+        - {x: 121.5, y: 92.5}
+        - {x: 159.5, y: 46.5}
+        - {x: 199.5, y: -18.5}
+        - {x: 229.5, y: -96.5}
+        - {x: 230.5, y: -153.5}
+        - {x: 244.5, y: -168.5}
+        - {x: 247.5, y: -223.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f6b10a26ebdd664eaae121423f443e8
+      internalID: 21300020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Industrial Walls Zone 2 Revision_14
+      rect:
+        serializedVersion: 2
+        x: 4688
+        y: 5217
+        width: 752
+        height: 927
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -264, y: -414.5}
+        - {x: -266, y: -348.5}
+        - {x: -247, y: -332.5}
+        - {x: -250, y: -94.5}
+        - {x: -221, y: -73.5}
+        - {x: -219, y: -48.5}
+        - {x: -247, y: -11.5}
+        - {x: -279, y: 54.5}
+        - {x: -293, y: 117.5}
+        - {x: -287, y: 207.5}
+        - {x: -253, y: 291.5}
+        - {x: -210, y: 349.5}
+        - {x: -145, y: 398.5}
+        - {x: -74, y: 424.5}
+        - {x: 2, y: 435.5}
+        - {x: 77, y: 423.5}
+        - {x: 171, y: 377.5}
+        - {x: 242, y: 305.5}
+        - {x: 269, y: 238.5}
+        - {x: 281, y: 190.5}
+        - {x: 284, y: 113.5}
+        - {x: 272, y: 62.5}
+        - {x: 247, y: 0.5}
+        - {x: 224, y: -36.5}
+        - {x: 224, y: -77.5}
+        - {x: 247, y: -100.5}
+        - {x: 246, y: -334.5}
+        - {x: 256, y: -349.5}
+        - {x: 255, y: -417.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1bbeb300bf90594eb9b2da81fe57e9e
+      internalID: 21300022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Industrial Walls Zone 2 Revision_15
+      rect:
+        serializedVersion: 2
+        x: 3951
+        y: 5233
+        width: 735
+        height: 480
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 256.5, y: -193}
+        - {x: -226.5, y: -193}
+        - {x: -244.5, y: -180}
+        - {x: -248.5, y: -36}
+        - {x: -266.5, y: -22}
+        - {x: -266.5, y: 39}
+        - {x: -248.5, y: 59}
+        - {x: -243.5, y: 206}
+        - {x: -226.5, y: 217}
+        - {x: 251.5, y: 220}
+        - {x: 270.5, y: 204}
+        - {x: 270.5, y: 65}
+        - {x: 283.5, y: 48}
+        - {x: 286.5, y: -24}
+        - {x: 271.5, y: -36}
+        - {x: 275.5, y: -176}
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8e972f91f2bf2e4f9b25482663f620a
+      internalID: 21300024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Industrial Walls Zone 2 Revision_16
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 4023
+        width: 265
+        height: 1058
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -95.5, y: -482}
+        - {x: -94.5, y: -131}
+        - {x: -73.5, y: -79}
+        - {x: -101.5, y: -11}
+        - {x: -76.5, y: 55}
+        - {x: -102.5, y: 131}
+        - {x: -103.5, y: 483}
+        - {x: 94.5, y: 483}
+        - {x: 99.5, y: 121}
+        - {x: 79.5, y: 58}
+        - {x: 100.5, y: -15}
+        - {x: 72.5, y: -80}
+        - {x: 104.5, y: -131}
+        - {x: 109.5, y: -486}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c56c58ef24324644be29f40f807ab1a
+      internalID: 21300026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Industrial Walls Zone 2 Revision_17
+      rect:
+        serializedVersion: 2
+        x: 1007
+        y: 4016
+        width: 539
+        height: 1066
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -45.5, y: -123}
+        - {x: -44.5, y: -478}
+        - {x: -243.5, y: -478}
+        - {x: -244.5, y: -128}
+        - {x: -221.5, y: -115}
+        - {x: -220.5, y: 127}
+        - {x: -251.5, y: 132}
+        - {x: -254.5, y: 485}
+        - {x: -50.5, y: 489}
+        - {x: -51.5, y: 137}
+        - {x: -27.5, y: 98}
+        - {x: 211.5, y: 94}
+        - {x: 255.5, y: -2}
+        - {x: 213.5, y: -104}
+        - {x: -30.5, y: -101}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 951318fcefd40d947939b06d74786ade
+      internalID: 21300028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Industrial Walls Zone 2 Revision_18
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 4021
+        width: 261
+        height: 1061
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -90.5, y: -485.5}
+        - {x: -91.5, y: -130.5}
+        - {x: -69.5, y: -76.5}
+        - {x: -93.5, y: -36.5}
+        - {x: -95.5, y: 4.5}
+        - {x: -75.5, y: 58.5}
+        - {x: -103.5, y: 132.5}
+        - {x: -100.5, y: 483.5}
+        - {x: 98.5, y: 483.5}
+        - {x: 99.5, y: 129.5}
+        - {x: 79.5, y: 59.5}
+        - {x: 99.5, y: 28.5}
+        - {x: 103.5, y: -11.5}
+        - {x: 94.5, y: -52.5}
+        - {x: 75.5, y: -80.5}
+        - {x: 106.5, y: -126.5}
+        - {x: 108.5, y: -479.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc275b923d7c0734fa1644a5192914a9
+      internalID: 21300030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Industrial Walls Zone 2 Revision_19
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 1750
+        width: 177
+        height: 3329
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -59.5, y: -1603.5}
+        - {x: -63.5, y: 1583.5}
+        - {x: 68.5, y: 1584.5}
+        - {x: 71.5, y: -1605.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67739635df8da374fb4b812b07a3c2f4
+      internalID: 21300032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Industrial Walls Zone 2 Revision_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1498
+        width: 302
+        height: 3808
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -76, y: -1805}
+        - {x: -92, y: -1788}
+        - {x: -96, y: 1837}
+        - {x: -77, y: 1861}
+        - {x: 103, y: 1900}
+        - {x: 103, y: 1832}
+        - {x: 12, y: 1816}
+        - {x: 19, y: -1763}
+        - {x: 108, y: -1798}
+        - {x: 108, y: -1868}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79781adbf9bf68d4bb6ce600822bc205
+      internalID: 21300034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Industrial Walls Zone 2 Revision_21
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 2686
+        width: 1171
+        height: 1256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 398.5, y: -376}
+        - {x: 343.5, y: -428}
+        - {x: 287.5, y: -461}
+        - {x: 192.5, y: -489}
+        - {x: 96.5, y: -499}
+        - {x: -159.5, y: -502}
+        - {x: -176.5, y: -519}
+        - {x: -523.5, y: -517}
+        - {x: -516.5, y: -34}
+        - {x: -172.5, y: -37}
+        - {x: -161.5, y: -51}
+        - {x: -22.5, y: -37}
+        - {x: 23.5, y: -12}
+        - {x: 55.5, y: 22}
+        - {x: 92.5, y: 77}
+        - {x: 106.5, y: 174}
+        - {x: 64.5, y: 205}
+        - {x: 72.5, y: 557}
+        - {x: 541.5, y: 557}
+        - {x: 542.5, y: 205}
+        - {x: 509.5, y: 172}
+        - {x: 505.5, y: -151}
+        - {x: 461.5, y: -285}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b417181c5c7ea94f8e484ff190eb1c2
+      internalID: 21300036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Industrial Walls Zone 2 Revision_22
+      rect:
+        serializedVersion: 2
+        x: 3944
+        y: 4034
+        width: 1040
+        height: 1182
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 139, y: -516}
+        - {x: 115, y: -505}
+        - {x: -152, y: -504}
+        - {x: -295, y: -460}
+        - {x: -384, y: -389}
+        - {x: -445, y: -303}
+        - {x: -484, y: -168}
+        - {x: -492, y: 162}
+        - {x: -505, y: 177}
+        - {x: -505, y: 527}
+        - {x: -304, y: 529}
+        - {x: -305, y: 180}
+        - {x: -316, y: 160}
+        - {x: -314, y: -152}
+        - {x: -294, y: -222}
+        - {x: -257, y: -275}
+        - {x: -203, y: -315}
+        - {x: -132, y: -330}
+        - {x: 118, y: -338}
+        - {x: 133, y: -317}
+        - {x: 481, y: -320}
+        - {x: 481, y: -516}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 884fbe4a4ed29514fbed637fa13bd4cd
+      internalID: 21300038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Industrial Walls Zone 2 Revision_23
+      rect:
+        serializedVersion: 2
+        x: 1717
+        y: 2516
+        width: 1362
+        height: 1349
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -234, y: -639.5}
+        - {x: -231, y: -284.5}
+        - {x: -286, y: -238.5}
+        - {x: -643, y: -238.5}
+        - {x: -644, y: 244.5}
+        - {x: -289, y: 240.5}
+        - {x: -235, y: 289.5}
+        - {x: -232, y: 638.5}
+        - {x: 242, y: 638.5}
+        - {x: 243, y: 290.5}
+        - {x: 291, y: 239.5}
+        - {x: 644, y: 240.5}
+        - {x: 646, y: -245.5}
+        - {x: 290, y: -237.5}
+        - {x: 244, y: -285.5}
+        - {x: 245, y: -639.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2dc0debac64f6843b46790af6661bc1
+      internalID: 21300040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Industrial Walls Zone 2 Revision_24
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 71
+        width: 567
+        height: 1378
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -241.5, y: -633}
+        - {x: -240.5, y: -278}
+        - {x: -215.5, y: -252}
+        - {x: -216.5, y: 287}
+        - {x: -247.5, y: 310}
+        - {x: -238.5, y: 655}
+        - {x: 239.5, y: 655}
+        - {x: 239.5, y: 304}
+        - {x: 215.5, y: 281}
+        - {x: 217.5, y: -251}
+        - {x: 234.5, y: -274}
+        - {x: 241.5, y: -633}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28ede9c1e99746e4d804ab08287e7cea
+      internalID: 21300042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Industrial Walls Zone 2 Revision_25
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 89
+        width: 556
+        height: 1360
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -240, y: -647}
+        - {x: -237, y: -293}
+        - {x: -210, y: -263}
+        - {x: -211, y: 264}
+        - {x: -241, y: 293}
+        - {x: -236, y: 642}
+        - {x: 243, y: 640}
+        - {x: 242, y: 289}
+        - {x: 224, y: 265}
+        - {x: 222, y: -268}
+        - {x: 243, y: -296}
+        - {x: 242, y: -644}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 181c6e85e05192349a20b39af34e80be
+      internalID: 21300044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Industrial Walls Zone 2 Revision_26
+      rect:
+        serializedVersion: 2
+        x: 1165
+        y: 87
+        width: 818
+        height: 1361
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 77, y: -137.5}
+        - {x: 78, y: -266.5}
+        - {x: 100, y: -291.5}
+        - {x: 103, y: -643.5}
+        - {x: -384, y: -642.5}
+        - {x: -382, y: -287.5}
+        - {x: -354, y: -262.5}
+        - {x: -354, y: 258.5}
+        - {x: -381, y: 290.5}
+        - {x: -380, y: 641.5}
+        - {x: 100, y: 641.5}
+        - {x: 99, y: 289.5}
+        - {x: 77, y: 265.5}
+        - {x: 79, y: 108.5}
+        - {x: 115, y: 87.5}
+        - {x: 364, y: 85.5}
+        - {x: 400, y: -7.5}
+        - {x: 360, y: -107.5}
+        - {x: 112, y: -108.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: d32d9c26503ac0343880539e956dfcf7
+      internalID: 21300046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Industrial Walls Zone 2 Revision_27
+      rect:
+        serializedVersion: 2
+        x: 1985
+        y: 81
+        width: 801
+        height: 1368
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -390.5, y: -640}
+        - {x: -389.5, y: -288}
+        - {x: -357.5, y: -251}
+        - {x: -358.5, y: 251}
+        - {x: -385.5, y: 296}
+        - {x: -387.5, y: 647}
+        - {x: 92.5, y: 642}
+        - {x: 92.5, y: 290}
+        - {x: 72.5, y: 254}
+        - {x: 70.5, y: 117}
+        - {x: 109.5, y: 95}
+        - {x: 348.5, y: 90}
+        - {x: 393.5, y: -1}
+        - {x: 355.5, y: -108}
+        - {x: 113.5, y: -101}
+        - {x: 71.5, y: -134}
+        - {x: 71.5, y: -254}
+        - {x: 95.5, y: -283}
+        - {x: 96.5, y: -637}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 103bd34a60c63bc46afe7f96d847724d
+      internalID: 21300048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Industrial Walls Zone 2 Revision_28
+      rect:
+        serializedVersion: 2
+        x: 2785
+        y: 79
+        width: 533
+        height: 1370
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -252.5, y: -639}
+        - {x: -247.5, y: -288}
+        - {x: -220.5, y: -247}
+        - {x: -222.5, y: 257}
+        - {x: -248.5, y: 295}
+        - {x: -247.5, y: 646}
+        - {x: 231.5, y: 646}
+        - {x: 229.5, y: 298}
+        - {x: 210.5, y: 261}
+        - {x: 209.5, y: -251}
+        - {x: 231.5, y: -286}
+        - {x: 236.5, y: -637}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e66d3af1722c2b458a91fbd9b3d2512
+      internalID: 21300050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Industrial Walls Zone 2 Revision_29
+      rect:
+        serializedVersion: 2
+        x: 3320
+        y: 77
+        width: 543
+        height: 1375
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -244.5, y: -642.5}
+        - {x: -239.5, y: -287.5}
+        - {x: -214.5, y: -253.5}
+        - {x: -213.5, y: 263.5}
+        - {x: -245.5, y: 295.5}
+        - {x: -239.5, y: 644.5}
+        - {x: 236.5, y: 646.5}
+        - {x: 237.5, y: 295.5}
+        - {x: 214.5, y: 252.5}
+        - {x: 215.5, y: -247.5}
+        - {x: 235.5, y: -289.5}
+        - {x: 244.5, y: -637.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: d60da47d9d4754748af22143a166cd0d
+      internalID: 21300052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Industrial Walls Zone 2 Revision_30
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 1484
+        width: 1189
+        height: 1166
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 64.5, y: -533}
+        - {x: -193.5, y: -539}
+        - {x: -209.5, y: -550}
+        - {x: -558.5, y: -550}
+        - {x: -557.5, y: -73}
+        - {x: -210.5, y: -69}
+        - {x: -192.5, y: -85}
+        - {x: -111.5, y: -79}
+        - {x: -28.5, y: -59}
+        - {x: 18.5, y: -15}
+        - {x: 59.5, y: 56}
+        - {x: 67.5, y: 113}
+        - {x: 23.5, y: 176}
+        - {x: 30.5, y: 524}
+        - {x: 507.5, y: 524}
+        - {x: 509.5, y: 175}
+        - {x: 477.5, y: 128}
+        - {x: 474.5, y: -63}
+        - {x: 455.5, y: -237}
+        - {x: 396.5, y: -368}
+        - {x: 301.5, y: -467}
+        - {x: 197.5, y: -515}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40bc196c0310a6d4fa1ccbe24e5b6a16
+      internalID: 21300054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Industrial Walls Zone 2 Revision_31
+      rect:
+        serializedVersion: 2
+        x: 3179
+        y: 2511
+        width: 1354
+        height: 1354
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 247, y: -286}
+        - {x: 243, y: -642}
+        - {x: -238, y: -641}
+        - {x: -238, y: -295}
+        - {x: -283, y: -239}
+        - {x: -645, y: -238}
+        - {x: -642, y: 241}
+        - {x: -289, y: 242}
+        - {x: -238, y: 286}
+        - {x: -236, y: 636}
+        - {x: 244, y: 639}
+        - {x: 243, y: 292}
+        - {x: 284, y: 243}
+        - {x: 638, y: 238}
+        - {x: 644, y: -239}
+        - {x: 284, y: -237}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40ebd0d3f2be91d47b6b7500b30e418e
+      internalID: 21300056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Industrial Walls Zone 2 Revision_0
+      rect:
+        serializedVersion: 2
+        x: 4719
+        y: 1569
+        width: 1341
+        height: 1369
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 94.5, y: -645.5}
+        - {x: -103.5, y: -644.5}
+        - {x: -104.5, y: -291.5}
+        - {x: -80.5, y: -256.5}
+        - {x: -82.5, y: -107.5}
+        - {x: -110.5, y: -73.5}
+        - {x: -263.5, y: -75.5}
+        - {x: -296.5, y: -106.5}
+        - {x: -646.5, y: -101.5}
+        - {x: -646.5, y: 97.5}
+        - {x: -300.5, y: 99.5}
+        - {x: -268.5, y: 73.5}
+        - {x: -108.5, y: 74.5}
+        - {x: -82.5, y: 115.5}
+        - {x: -76.5, y: 263.5}
+        - {x: -107.5, y: 290.5}
+        - {x: -107.5, y: 638.5}
+        - {x: 96.5, y: 638.5}
+        - {x: 88.5, y: 286.5}
+        - {x: 68.5, y: 258.5}
+        - {x: 71.5, y: 116.5}
+        - {x: 110.5, y: 71.5}
+        - {x: 252.5, y: 74.5}
+        - {x: 281.5, y: 103.5}
+        - {x: 640.5, y: 98.5}
+        - {x: 635.5, y: -98.5}
+        - {x: 279.5, y: -95.5}
+        - {x: 252.5, y: -75.5}
+        - {x: 98.5, y: -76.5}
+        - {x: 68.5, y: -106.5}
+        - {x: 69.5, y: -263.5}
+        - {x: 95.5, y: -286.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 602ad425d6d217d418638e98d20ca9f6
+      internalID: 21300058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Industrial Walls Zone 2 Revision_1
+      rect:
+        serializedVersion: 2
+        x: 3896
+        y: 80
+        width: 817
+        height: 2382
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -374.5, y: -1154}
+        - {x: -376.5, y: -935}
+        - {x: -345.5, y: -910}
+        - {x: -312.5, y: -911}
+        - {x: -311.5, y: -372}
+        - {x: -333.5, y: -373}
+        - {x: -348.5, y: -354}
+        - {x: -348.5, y: -276}
+        - {x: -332.5, y: -252}
+        - {x: -315.5, y: -249}
+        - {x: -309.5, y: 818}
+        - {x: -356.5, y: 817}
+        - {x: -355.5, y: 986}
+        - {x: -338.5, y: 1001}
+        - {x: -313.5, y: 1006}
+        - {x: -259.5, y: 1090}
+        - {x: -187.5, y: 1090}
+        - {x: -185.5, y: 1136}
+        - {x: -57.5, y: 1137}
+        - {x: 2.5, y: 1120}
+        - {x: 56.5, y: 1136}
+        - {x: 186.5, y: 1136}
+        - {x: 185.5, y: 1090}
+        - {x: 260.5, y: 1089}
+        - {x: 313.5, y: 1005}
+        - {x: 335.5, y: 1003}
+        - {x: 355.5, y: 985}
+        - {x: 356.5, y: 816}
+        - {x: 312.5, y: 816}
+        - {x: 314.5, y: -250}
+        - {x: 331.5, y: -251}
+        - {x: 349.5, y: -275}
+        - {x: 348.5, y: -357}
+        - {x: 329.5, y: -372}
+        - {x: 310.5, y: -372}
+        - {x: 314.5, y: -910}
+        - {x: 343.5, y: -910}
+        - {x: 375.5, y: -936}
+        - {x: 375.5, y: -1154}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cfc6d98e59352f4db92dc5fa98bb5ca
+      internalID: 21300060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Industrial Walls Zone 2 Revision_2
+      rect:
+        serializedVersion: 2
+        x: 4723
+        y: 139
+        width: 1332
+        height: 1359
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -103, y: -644.5}
+        - {x: -106, y: -282.5}
+        - {x: -79, y: -226.5}
+        - {x: -79, y: -115.5}
+        - {x: -116, y: -73.5}
+        - {x: -243, y: -73.5}
+        - {x: -295, y: -102.5}
+        - {x: -647, y: -96.5}
+        - {x: -648, y: 99.5}
+        - {x: -298, y: 100.5}
+        - {x: -253, y: 73.5}
+        - {x: -127, y: 71.5}
+        - {x: -81, y: 122.5}
+        - {x: -83, y: 240.5}
+        - {x: -108, y: 291.5}
+        - {x: -107, y: 639.5}
+        - {x: 95, y: 640.5}
+        - {x: 94, y: 286.5}
+        - {x: 69, y: 233.5}
+        - {x: 68, y: 122.5}
+        - {x: 109, y: 74.5}
+        - {x: 244, y: 75.5}
+        - {x: 284, y: 104.5}
+        - {x: 636, y: 103.5}
+        - {x: 637, y: -103.5}
+        - {x: 282, y: -92.5}
+        - {x: 240, y: -74.5}
+        - {x: 99, y: -73.5}
+        - {x: 68, y: -116.5}
+        - {x: 64, y: -229.5}
+        - {x: 97, y: -286.5}
+        - {x: 96, y: -645.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: e393fa276a59c544f8f8df1c2fbaba63
+      internalID: 21300062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: b6412cc6f2c413b448376dbf6041f5a0
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Industrial Walls Zone 2 Revision_0: 21300058
+      Industrial Walls Zone 2 Revision_1: 21300060
+      Industrial Walls Zone 2 Revision_10: 21300014
+      Industrial Walls Zone 2 Revision_11: 21300016
+      Industrial Walls Zone 2 Revision_12: 21300018
+      Industrial Walls Zone 2 Revision_13: 21300020
+      Industrial Walls Zone 2 Revision_14: 21300022
+      Industrial Walls Zone 2 Revision_15: 21300024
+      Industrial Walls Zone 2 Revision_16: 21300026
+      Industrial Walls Zone 2 Revision_17: 21300028
+      Industrial Walls Zone 2 Revision_18: 21300030
+      Industrial Walls Zone 2 Revision_19: 21300032
+      Industrial Walls Zone 2 Revision_2: 21300062
+      Industrial Walls Zone 2 Revision_20: 21300034
+      Industrial Walls Zone 2 Revision_21: 21300036
+      Industrial Walls Zone 2 Revision_22: 21300038
+      Industrial Walls Zone 2 Revision_23: 21300040
+      Industrial Walls Zone 2 Revision_24: 21300042
+      Industrial Walls Zone 2 Revision_25: 21300044
+      Industrial Walls Zone 2 Revision_26: 21300046
+      Industrial Walls Zone 2 Revision_27: 21300048
+      Industrial Walls Zone 2 Revision_28: 21300050
+      Industrial Walls Zone 2 Revision_29: 21300052
+      Industrial Walls Zone 2 Revision_3: 21300000
+      Industrial Walls Zone 2 Revision_30: 21300054
+      Industrial Walls Zone 2 Revision_31: 21300056
+      Industrial Walls Zone 2 Revision_4: 21300002
+      Industrial Walls Zone 2 Revision_5: 21300004
+      Industrial Walls Zone 2 Revision_6: 21300006
+      Industrial Walls Zone 2 Revision_7: 21300008
+      Industrial Walls Zone 2 Revision_8: 21300010
+      Industrial Walls Zone 2 Revision_9: 21300012
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,570 @@
+fileFormatVersion: 2
+guid: c65021a8e72a56d489578f5965bcbfcd
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: zone4_background_0
+  - first:
+      213: 21300002
+    second: zone4_rubble_0
+  - first:
+      213: 21300004
+    second: zone4_rock_0
+  - first:
+      213: 21300006
+    second: zone4_rubble_5
+  - first:
+      213: 21300008
+    second: zone4_rock_3
+  - first:
+      213: 21300010
+    second: zone4_rubble_1
+  - first:
+      213: 21300012
+    second: zone4_rock_4
+  - first:
+      213: 21300014
+    second: zone4_background_10
+  - first:
+      213: 21300016
+    second: zone4_background_11
+  - first:
+      213: 21300018
+    second: zone4_rock_1
+  - first:
+      213: 21300020
+    second: zone4_rock_5
+  - first:
+      213: 21300022
+    second: zone4_metal
+  - first:
+      213: 21300024
+    second: zone4_rubble_2
+  - first:
+      213: 21300026
+    second: zone4_rock_6
+  - first:
+      213: 21300028
+    second: zone4_rock_7
+  - first:
+      213: 21300030
+    second: zone4_background_18
+  - first:
+      213: 21300032
+    second: zone4_rubble_3
+  - first:
+      213: 21300034
+    second: zone4_rock_9
+  - first:
+      213: 21300036
+    second: zone4_rock_8
+  - first:
+      213: 21300038
+    second: zone4_rubble_4
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: zone4_background_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 898
+        width: 2048
+        height: 1150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16513cefca7ac474a9187f520b140f55
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zone4_rubble_0
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 587
+        width: 606
+        height: 303
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0993c2ebdda63424aa636f9125599ec7
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zone4_rock_0
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 708
+        width: 103
+        height: 156
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33a3b68c2fdd46045a07c0237fcd0d67
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zone4_rubble_5
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 593
+        width: 477
+        height: 295
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c13bc29f526c9e4da42ba14d264abdb
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zone4_rock_3
+      rect:
+        serializedVersion: 2
+        x: 1277
+        y: 591
+        width: 232
+        height: 293
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dc42f01665186a40ac01798b0fc7319
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zone4_rubble_1
+      rect:
+        serializedVersion: 2
+        x: 1512
+        y: 477
+        width: 277
+        height: 401
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d01615d37ac302a469e4f8cedb23a908
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zone4_rock_4
+      rect:
+        serializedVersion: 2
+        x: 1813
+        y: 739
+        width: 222
+        height: 141
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 293b2c61363c96a49986ce49440ebfb8
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zone4_background_10
+      rect:
+        serializedVersion: 2
+        x: 1882
+        y: 730
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0921d3a1225d4b6418910de76c12e911
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zone4_rock_1
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 616
+        width: 64
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7b9342c91f87b34ea28eae0b45b6ec0
+      internalID: 21300018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zone4_rock_5
+      rect:
+        serializedVersion: 2
+        x: 1807
+        y: 624
+        width: 142
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02bc2530142a22c45b3361ddd00eb5a7
+      internalID: 21300020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zone4_metal
+      rect:
+        serializedVersion: 2
+        x: 1967
+        y: 641
+        width: 78
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff00faf39cb61b64ab3f52b3ea4e0939
+      internalID: 21300022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zone4_rubble_2
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 0
+        width: 777
+        height: 560
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28650e7ba3d48b44788f269292d026ec
+      internalID: 21300024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zone4_rock_6
+      rect:
+        serializedVersion: 2
+        x: 1802
+        y: 472
+        width: 110
+        height: 132
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f5eceaca382dc143889196d93ac88c2
+      internalID: 21300026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zone4_rock_7
+      rect:
+        serializedVersion: 2
+        x: 1924
+        y: 488
+        width: 101
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2eb37dabbf231af42ac93e63669a6046
+      internalID: 21300028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zone4_rubble_3
+      rect:
+        serializedVersion: 2
+        x: 1349
+        y: 0
+        width: 679
+        height: 360
+      alignment: 9
+      pivot: {x: 0.53841907, y: 0.5557409}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a65740c713d5244aaefe10e41ae5455
+      internalID: 21300032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zone4_rock_9
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 48
+        width: 141
+        height: 124
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 439950c5855c3204cb76d0b48fa9b0fa
+      internalID: 21300034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zone4_rock_8
+      rect:
+        serializedVersion: 2
+        x: 992
+        y: 75
+        width: 60
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d891e6f50afdee14886ce1808b1868bb
+      internalID: 21300036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zone4_rubble_4
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 16
+        width: 257
+        height: 184
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d15a21766b4f864aad8daaff5f4fe30
+      internalID: 21300038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 520385d4ef007a44faa89cf018b073ff
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      zone4_background_0: 21300000
+      zone4_background_10: 21300014
+      zone4_metal: 21300022
+      zone4_rock_0: 21300004
+      zone4_rock_1: 21300018
+      zone4_rock_3: 21300008
+      zone4_rock_4: 21300012
+      zone4_rock_5: 21300020
+      zone4_rock_6: 21300026
+      zone4_rock_7: 21300028
+      zone4_rock_8: 21300036
+      zone4_rock_9: 21300034
+      zone4_rubble_0: 21300002
+      zone4_rubble_1: 21300010
+      zone4_rubble_2: 21300024
+      zone4_rubble_3: 21300032
+      zone4_rubble_4: 21300038
+      zone4_rubble_5: 21300006
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

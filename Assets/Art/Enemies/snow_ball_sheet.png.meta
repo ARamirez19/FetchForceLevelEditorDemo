@@ -1,0 +1,479 @@
+fileFormatVersion: 2
+guid: 33698badea2424d47b65c08f5193579d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: snow_ball_browL_B
+  - first:
+      213: 21300002
+    second: snow_ball_browL_A
+  - first:
+      213: 21300004
+    second: snow_ball_browR_A
+  - first:
+      213: 21300006
+    second: snow_ball_browR_B
+  - first:
+      213: 21300008
+    second: snow_ball_headB
+  - first:
+      213: 21300010
+    second: snow_ball_tooth
+  - first:
+      213: 21300012
+    second: snow_ball_headA
+  - first:
+      213: 21300014
+    second: snow_ball_jawB
+  - first:
+      213: 21300016
+    second: snow_ball_jawA
+  - first:
+      213: 21300018
+    second: snow_ball_sheet_9
+  - first:
+      213: 21300020
+    second: snow_ball_eye_open
+  - first:
+      213: 21300022
+    second: snow_ball_sheet_11
+  - first:
+      213: 21300024
+    second: snow_ball_sheet_12
+  - first:
+      213: 21300026
+    second: snow_ball_eye_blink
+  - first:
+      213: 21300028
+    second: snow_ball_sheet_14
+  - first:
+      213: 21300030
+    second: snow_ball_sheet_15
+  - first:
+      213: 21300032
+    second: snow_ball_sheet_16
+  - first:
+      213: 21300034
+    second: snow_ball_pupil
+  - first:
+      213: 21300036
+    second: snow_ball_eye_squint
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 200
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: snow_ball_browL_B
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 1102
+        width: 29
+        height: 43
+      alignment: 9
+      pivot: {x: 0.5422553, y: 0.22585389}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e577e7dce4b408241a1062ed965ddd8f
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snow_ball_browL_A
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 1057
+        width: 51
+        height: 85
+      alignment: 9
+      pivot: {x: 0.5657648, y: 0.13749425}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1d7c71bd62017d4bb0b64e30cb9f764
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snow_ball_browR_A
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 1056
+        width: 96
+        height: 85
+      alignment: 9
+      pivot: {x: 0.14259322, y: 0.20073386}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b146591c7ff09540932da9ec5ab1e0f
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snow_ball_browR_B
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 1104
+        width: 56
+        height: 40
+      alignment: 9
+      pivot: {x: 0.20421492, y: 0.23379211}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6de54891529194847a56dfde51fca0f9
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snow_ball_headB
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 788
+        width: 505
+        height: 340
+      alignment: 9
+      pivot: {x: 0.8466669, y: 0.5111935}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba60f47927a96034bbed5cbb6b302e5b
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snow_ball_tooth
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 420
+        width: 133
+        height: 188
+      alignment: 9
+      pivot: {x: 0.47138482, y: 0.287442}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 66.5, y: -94}
+        - {x: -66.5, y: -94}
+        - {x: -66.5, y: 94}
+        - {x: 24.5, y: 94}
+        - {x: 66.5, y: 4}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0e2d79da1b369342bd393f85042ef54
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snow_ball_headA
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 548
+        width: 563
+        height: 512
+      alignment: 9
+      pivot: {x: 0.8515126, y: 0.6040648}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 105.5, y: -256}
+        - {x: -151.5, y: -256}
+        - {x: -281.5, y: -106}
+        - {x: -281.5, y: 117}
+        - {x: -87.5, y: 256}
+        - {x: 281.5, y: 256}
+        - {x: 281.5, y: -55}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b515a197672e4b4f9ca521efcc21e7e
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snow_ball_jawB
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 322
+        width: 573
+        height: 414
+      alignment: 9
+      pivot: {x: 0.89187104, y: 0.7390116}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -162.5, y: -207}
+        - {x: -286.5, y: -59}
+        - {x: -286.5, y: 207}
+        - {x: 286.5, y: 207}
+        - {x: 286.5, y: -207}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23cfeaf4a062a894485db89f493f7e9b
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snow_ball_jawA
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 28
+        width: 572
+        height: 417
+      alignment: 9
+      pivot: {x: 0.81271434, y: 0.778362}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -286, y: -208.5}
+        - {x: -286, y: 122.5}
+        - {x: -128, y: 208.5}
+        - {x: 286, y: 208.5}
+        - {x: 286, y: -208.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4458461d6216c204992ff99793bf57b5
+      internalID: 21300016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snow_ball_eye_open
+      rect:
+        serializedVersion: 2
+        x: 764
+        y: 182
+        width: 345
+        height: 122
+      alignment: 9
+      pivot: {x: 0.5335872, y: 0.20766236}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1290ca701272d743a825e46abb94473
+      internalID: 21300020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snow_ball_eye_blink
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 26
+        width: 342
+        height: 130
+      alignment: 9
+      pivot: {x: 0.5307917, y: 0.2054328}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c457622d7a2078843898218b8cc30b89
+      internalID: 21300026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snow_ball_pupil
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 965
+        width: 49
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4145e9f5596e0c34a9819dd58a90a1b3
+      internalID: 21300034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snow_ball_eye_squint
+      rect:
+        serializedVersion: 2
+        x: 935
+        y: 20
+        width: 187
+        height: 141
+      alignment: 9
+      pivot: {x: 0.16753758, y: 0.29003513}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5af4d0bba200bb84f8dacc608b94f82b
+      internalID: 21300036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 7ae43ad5a50420640ae012759e009a2f
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      snow_ball_browL_A: 21300002
+      snow_ball_browL_B: 21300000
+      snow_ball_browR_A: 21300004
+      snow_ball_browR_B: 21300006
+      snow_ball_eye_blink: 21300026
+      snow_ball_eye_open: 21300020
+      snow_ball_eye_squint: 21300036
+      snow_ball_headA: 21300012
+      snow_ball_headB: 21300008
+      snow_ball_jawA: 21300016
+      snow_ball_jawB: 21300014
+      snow_ball_pupil: 21300034
+      snow_ball_tooth: 21300010
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

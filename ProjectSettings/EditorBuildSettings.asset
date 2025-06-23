@@ -1,0 +1,258 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/BootStrap.unity
+    guid: ed36114951b438149bcc6ea7f0268fea
+  - enabled: 1
+    path: Assets/Assignment Folder/Scenes/HomeMenu.unity
+    guid: 9c6ed2e05976468419ac526818a36b5e
+  - enabled: 1
+    path: Assets/Scenes/LevelSelect.unity
+    guid: d3e5800be5811d343bc7e4547e41fb8c
+  - enabled: 1
+    path: Assets/Scenes/Comics/Prologue.unity
+    guid: b106e6f956931374a8d12cc171d48c62
+  - enabled: 1
+    path: Assets/Scenes/World1/World1Level1.unity
+    guid: 0511bb4e630c9c044b9dbe6dde811d6d
+  - enabled: 1
+    path: Assets/Scenes/World1/World1Level2.unity
+    guid: 2ba8cba1a1136574f921ab4181982a6e
+  - enabled: 1
+    path: Assets/Scenes/World1/World1Level3.unity
+    guid: 9e122ec5f40902b408c650f81a81ae46
+  - enabled: 1
+    path: Assets/Scenes/World1/World1Level4.unity
+    guid: 2522115357914334db1b7fcf7a5d189a
+  - enabled: 1
+    path: Assets/Scenes/World1/World1Level5.unity
+    guid: 107fbf21e89c6fe4faecbfb7c450aaf7
+  - enabled: 1
+    path: Assets/Scenes/World1/World1Level6.unity
+    guid: e1e8f5074b261ef4ab36cd2dd29c0576
+  - enabled: 1
+    path: Assets/Scenes/World1/World1Level7.unity
+    guid: 3abcbcb4bd28a7f4784bd155c24ff07d
+  - enabled: 1
+    path: Assets/Scenes/World1/World1Level8.unity
+    guid: 33f4af42a2b6a3246ab909cdfd2e9c46
+  - enabled: 1
+    path: Assets/Scenes/World1/World1Level9.unity
+    guid: ca410950a7874994f8e0fa3e43cd819a
+  - enabled: 1
+    path: Assets/Scenes/World1/World1Level10.unity
+    guid: b4074f3605fe096428043d6cf669c1b7
+  - enabled: 1
+    path: Assets/Scenes/World1/World1Level11.unity
+    guid: 0e660460a76a3584e94deb3e0a280a7f
+  - enabled: 1
+    path: Assets/Scenes/World1/World1Level12.unity
+    guid: 06cf4e4a76805be4c8ecf1bc24b58c96
+  - enabled: 1
+    path: Assets/Scenes/World1/World1Level13.unity
+    guid: 20c3453b83f59244b938ef829b3823c4
+  - enabled: 1
+    path: Assets/Scenes/World1/World1Level14.unity
+    guid: 31b14e9b331a0154d8ccc4f17db7ff30
+  - enabled: 1
+    path: Assets/Scenes/World1/World1Level15.unity
+    guid: 6b39ef37bcbe1834188e27953d965aaf
+  - enabled: 1
+    path: Assets/Scenes/World1/World1Level16.unity
+    guid: 68349de48512e564d8ce5b78257bde64
+  - enabled: 1
+    path: Assets/Scenes/World1/World1Level17.unity
+    guid: 247dea0dd2617784a9bb7001f9a9f7f8
+  - enabled: 1
+    path: Assets/Scenes/World1/World1Level18.unity
+    guid: 1cf536b6e52e9a344a8ff3016e390437
+  - enabled: 1
+    path: Assets/Scenes/World1/World1Level19.unity
+    guid: 80d9c24c495a7434bab767d83b863cf4
+  - enabled: 1
+    path: Assets/Scenes/World1/World1Level20.unity
+    guid: ae23b5397d3b21d448366edc02e01069
+  - enabled: 0
+    path: Assets/Scenes/World2/World2Level1.unity
+    guid: c97a8fb7e9f0df44ca9c47b6bafa7c9b
+  - enabled: 0
+    path: Assets/Scenes/World2/World2Level2.unity
+    guid: 3d849a6a022d91943ad741c247084447
+  - enabled: 0
+    path: Assets/Scenes/World2/World2Level3.unity
+    guid: acd02a80c08a44748babf73212ccb77d
+  - enabled: 0
+    path: Assets/Scenes/World2/World2Level4.unity
+    guid: ba0a63013d75e5944b1c59a0b1ddbae1
+  - enabled: 0
+    path: Assets/Scenes/World2/World2Level5.unity
+    guid: 2183a08105a1df54faba3d43cec89e54
+  - enabled: 0
+    path: Assets/Scenes/World2/World2Level6.unity
+    guid: 7229b67e68c010240b3c2cc2e267726d
+  - enabled: 0
+    path: Assets/Scenes/World2/World2Level7.unity
+    guid: 4f013702369975443a33ab5f2066c11e
+  - enabled: 0
+    path: Assets/Scenes/World2/World2Level8.unity
+    guid: 629e4c5d50f7199458108132e7af0ecf
+  - enabled: 0
+    path: Assets/Scenes/World2/World2Level9.unity
+    guid: 8e63e2ba31f5b4a49a66daa2f6c69018
+  - enabled: 0
+    path: Assets/Scenes/World2/World2Level10.unity
+    guid: 21694da3babb2ac40969ee2598603fc2
+  - enabled: 0
+    path: Assets/Scenes/World2/World2Level11.unity
+    guid: 56af6d13a2036aa439f49af9c8c18457
+  - enabled: 0
+    path: Assets/Scenes/World2/World2Level12.unity
+    guid: 08fa1d33d32cbd6489352a47ebd59b4f
+  - enabled: 0
+    path: Assets/Scenes/World2/World2Level13.unity
+    guid: f86855b77fef83440b67e98aabc09a6f
+  - enabled: 0
+    path: Assets/Scenes/World2/World2Level14.unity
+    guid: 5164e74a641bb864db88b33ef8eb27d8
+  - enabled: 0
+    path: Assets/Scenes/World2/World2Level15.unity
+    guid: 6a8b67dbb4133334383c5e03e88d6374
+  - enabled: 0
+    path: Assets/Scenes/World2/World2Level16.unity
+    guid: 5bbd674b2e3e1ab458af66d1a66e41c8
+  - enabled: 0
+    path: Assets/Scenes/World2/World2Level17.unity
+    guid: 6cef96b8f9c89624dab2eaebf11e0cde
+  - enabled: 0
+    path: Assets/Scenes/World2/World2Level18.unity
+    guid: dd922422a19f7f448a2d23fb7124ca77
+  - enabled: 0
+    path: Assets/Scenes/World2/World2Level19.unity
+    guid: b441889d3e39fc846bdc16b32d577ec3
+  - enabled: 0
+    path: Assets/Scenes/World2/World2Level20.unity
+    guid: b19ec5178a537cc48868a42503c5905a
+  - enabled: 0
+    path: Assets/Scenes/World3/World3Level1.unity
+    guid: 2351e9256ee7dd2458228dc167ad2e2b
+  - enabled: 0
+    path: Assets/Scenes/World3/World3Level2.unity
+    guid: 12e05601a9080ae489cac99850a50e34
+  - enabled: 0
+    path: Assets/Scenes/World3/World3Level3.unity
+    guid: d977cbd04c59744448a96ef17816f759
+  - enabled: 0
+    path: Assets/Scenes/World3/World3Level4.unity
+    guid: ac85823f44da06444a4db41c84a31cfa
+  - enabled: 0
+    path: Assets/Scenes/World3/World3Level5.unity
+    guid: cf1b146ee7212b8498fb7bce87c6548f
+  - enabled: 0
+    path: Assets/Scenes/World3/World3Level6.unity
+    guid: 0402d3da2331f05489df76fac36e6e7a
+  - enabled: 0
+    path: Assets/Scenes/World3/World3Level7.unity
+    guid: 26c2db7f3d4b6a64989c00774f1221a1
+  - enabled: 0
+    path: Assets/Scenes/World3/World3Level8.unity
+    guid: 2bd08bb94a44855489f63d1b3c75c7d0
+  - enabled: 0
+    path: Assets/Scenes/World3/World3Level9.unity
+    guid: dd2378baa92f75f46be046f4c0a79b16
+  - enabled: 0
+    path: Assets/Scenes/World3/World3Level10.unity
+    guid: 92a2e40ccd1ee964181948bf45083f7e
+  - enabled: 0
+    path: Assets/Scenes/World3/World3Level11.unity
+    guid: 8f6006e4f82bf564c9f1e313cc581a00
+  - enabled: 0
+    path: Assets/Scenes/World3/World3Level12.unity
+    guid: 8f2ea0e3b6c7b6a4d97b80b783207dfd
+  - enabled: 0
+    path: Assets/Scenes/World3/World3Level13.unity
+    guid: 519aa3c06483dc44abf920f69ce9b343
+  - enabled: 0
+    path: Assets/Scenes/World3/World3Level14.unity
+    guid: 76898eb818897f340b42016cebecbecb
+  - enabled: 0
+    path: Assets/Scenes/World3/World3Level15.unity
+    guid: 9a410c80002b72642b4c7dcfafd8405f
+  - enabled: 0
+    path: Assets/Scenes/World3/World3Level16.unity
+    guid: 18167a2f1f832f344965617ea30bb699
+  - enabled: 0
+    path: Assets/Scenes/World3/World3Level17.unity
+    guid: 99e4bc2516ec4e34fb3ff890e4f72b35
+  - enabled: 0
+    path: Assets/Scenes/World3/World3Level18.unity
+    guid: e1a901da1d53f3043a898cb3655b8e6c
+  - enabled: 0
+    path: Assets/Scenes/World3/World3Level19.unity
+    guid: 4ce07c3464683f44f954ddbc7eafaf0a
+  - enabled: 0
+    path: Assets/Scenes/World3/World3Level20.unity
+    guid: c1d97ba1824a9fc459dc1c2c05fab2cf
+  - enabled: 0
+    path: Assets/Scenes/World4/World4Level1.unity
+    guid: a2cacff68114e9b46aa78a2e3c1f2224
+  - enabled: 0
+    path: Assets/Scenes/World4/World4Level2.unity
+    guid: eaadfbdc505c61149a3c566daf5b1e7f
+  - enabled: 0
+    path: Assets/Scenes/World4/World4Level3.unity
+    guid: 0e55d89c37060d148abb30159cd17e1b
+  - enabled: 0
+    path: Assets/Scenes/World4/World4Level4.unity
+    guid: 55b0322486172ad4289496e966571cba
+  - enabled: 0
+    path: Assets/Scenes/World4/World4Level5.unity
+    guid: c6d02f7d4466c7a459865cb7ca94d0a0
+  - enabled: 0
+    path: Assets/Scenes/World4/World4Level6.unity
+    guid: 8f1d59b444858da40bef55d9f0c0de22
+  - enabled: 0
+    path: Assets/Scenes/World4/World4Level7.unity
+    guid: 48604c22776bd3042b5b8af94328f4e1
+  - enabled: 0
+    path: Assets/Scenes/World4/World4Level8.unity
+    guid: 62df7c1d289f8684d8eb979357aa0a92
+  - enabled: 0
+    path: Assets/Scenes/World4/World4Level9.unity
+    guid: 9cca1ee34b131744898e0e4bdca95c0d
+  - enabled: 0
+    path: Assets/Scenes/World4/World4Level10.unity
+    guid: 7af30fb0beca2e641a837f5d86a492d5
+  - enabled: 0
+    path: Assets/Scenes/World4/World4Level11.unity
+    guid: 1f98145ff3d7da04db45f7e964e0576d
+  - enabled: 0
+    path: Assets/Scenes/World4/World4Level13.unity
+    guid: c6cb79d6fa4eb3b47a90349a953baa74
+  - enabled: 0
+    path: Assets/Scenes/World4/World4Level14.unity
+    guid: ed6e778823637f44bbfd7fe4751fae48
+  - enabled: 0
+    path: Assets/Scenes/World4/World4Level15.unity
+    guid: 76f73523c2dbe0746b0eb794e6a73bd8
+  - enabled: 0
+    path: Assets/Scenes/World4/World4Level16.unity
+    guid: 8f377ea2176deb641b07ca2024495b82
+  - enabled: 0
+    path: Assets/Scenes/World4/World4Level17.unity
+    guid: 2e7c86b8d48049c4482a9a4ca76dc108
+  - enabled: 0
+    path: Assets/Scenes/World4/World4Level18.unity
+    guid: 781f42f7db0b06e4dba72c016e9d799b
+  - enabled: 0
+    path: Assets/Scenes/World4/World4Level19.unity
+    guid: c7293a7d48374c04a982fbdd06b976c4
+  - enabled: 0
+    path: Assets/Scenes/World4/World4Level20.unity
+    guid: 9511db955351bbf45824d9c5b42cc67e
+  m_configObjects: {}
+  m_UseUCBPForAssetBundles: 0

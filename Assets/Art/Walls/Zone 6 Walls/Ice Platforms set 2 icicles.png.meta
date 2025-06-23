@@ -1,0 +1,981 @@
+fileFormatVersion: 2
+guid: 82c432558a0c07640bf6efe0d40bc80e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: Ice Platforms set 2 icicles_0
+  - first:
+      213: 21300002
+    second: Ice Platforms set 2 icicles_1
+  - first:
+      213: 21300004
+    second: Ice Platforms set 2 icicles_2
+  - first:
+      213: 21300006
+    second: Ice Platforms set 2 icicles_3
+  - first:
+      213: 21300008
+    second: Ice Platforms set 2 icicles_4
+  - first:
+      213: 21300010
+    second: Ice Platforms set 2 icicles_5
+  - first:
+      213: 21300012
+    second: Ice Platforms set 2 icicles_7
+  - first:
+      213: 21300014
+    second: Ice Platforms set 2 icicles_8
+  - first:
+      213: 21300016
+    second: Ice Platforms set 2 icicles_9
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: tvOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Ice Platforms set 2 icicles_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1079
+        width: 338
+        height: 849
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 39, y: 18.5}
+        - {x: 33, y: -20.5}
+        - {x: 20, y: 28.5}
+        - {x: 19, y: 76.5}
+        - {x: 11, y: 87.5}
+        - {x: 2, y: 112.5}
+        - {x: 7, y: 125.5}
+        - {x: 22, y: 140.5}
+        - {x: 26, y: 185.5}
+        - {x: 39, y: 215.5}
+        - {x: 48, y: 242.5}
+        - {x: 47, y: 269.5}
+        - {x: 51, y: 301.5}
+        - {x: 83, y: 333.5}
+        - {x: 98, y: 350.5}
+        - {x: 102, y: 376.5}
+        - {x: 116, y: 403.5}
+        - {x: 138, y: 407.5}
+        - {x: 147, y: 389.5}
+        - {x: 146, y: 353.5}
+        - {x: 153, y: 342.5}
+        - {x: 148, y: 280.5}
+        - {x: 135, y: 281.5}
+        - {x: 137, y: 241.5}
+        - {x: 132, y: 151.5}
+        - {x: 106, y: 153.5}
+        - {x: 107, y: 125.5}
+        - {x: 82, y: 124.5}
+        - {x: 84, y: 91.5}
+        - {x: 80, y: 63.5}
+        - {x: 71, y: 59.5}
+        - {x: 74, y: 28.5}
+        - {x: 71, y: -34.5}
+        - {x: 58, y: 17.5}
+      - - {x: -63, y: -409.5}
+        - {x: -83, y: -283.5}
+        - {x: -107, y: -285.5}
+        - {x: -114, y: -254.5}
+        - {x: -129, y: -254.5}
+        - {x: -142, y: -189.5}
+        - {x: -144, y: -168.5}
+        - {x: -143, y: -115.5}
+        - {x: -134, y: -91.5}
+        - {x: -123, y: -68.5}
+        - {x: -104, y: -72.5}
+        - {x: -95, y: -91.5}
+        - {x: -92, y: -115.5}
+        - {x: -82, y: -133.5}
+        - {x: -67, y: -145.5}
+        - {x: -58, y: -163.5}
+        - {x: -56, y: -200.5}
+        - {x: -45, y: -208.5}
+        - {x: -44, y: -220.5}
+        - {x: -36, y: -240.5}
+        - {x: -41, y: -268.5}
+        - {x: -46, y: -298.5}
+        - {x: -48, y: -354.5}
+        - {x: -56, y: -377.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96a9f832e8705764d9f5cde44c4e29c2
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice Platforms set 2 icicles_1
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 953
+        width: 273
+        height: 935
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 76.5, y: 196.5}
+        - {x: 66.5, y: 191.5}
+        - {x: 50.5, y: 252.5}
+        - {x: 42.5, y: 270.5}
+        - {x: 30.5, y: 290.5}
+        - {x: 28.5, y: 308.5}
+        - {x: 34.5, y: 358.5}
+        - {x: 35.5, y: 387.5}
+        - {x: 29.5, y: 403.5}
+        - {x: 29.5, y: 418.5}
+        - {x: 43.5, y: 429.5}
+        - {x: 72.5, y: 433.5}
+        - {x: 90.5, y: 450.5}
+        - {x: 92.5, y: 434.5}
+        - {x: 102.5, y: 418.5}
+        - {x: 103.5, y: 383.5}
+        - {x: 109.5, y: 351.5}
+        - {x: 103.5, y: 268.5}
+        - {x: 93.5, y: 272.5}
+        - {x: 88.5, y: 238.5}
+        - {x: 85.5, y: 142.5}
+      - - {x: -63.5, y: -76.5}
+        - {x: -73.5, y: -26.5}
+        - {x: -79.5, y: -17.5}
+        - {x: -92.5, y: -17.5}
+        - {x: -101.5, y: 23.5}
+        - {x: -105.5, y: 69.5}
+        - {x: -112.5, y: 80.5}
+        - {x: -111.5, y: 117.5}
+        - {x: -104.5, y: 136.5}
+        - {x: -87.5, y: 139.5}
+        - {x: -78.5, y: 122.5}
+        - {x: -72.5, y: 106.5}
+        - {x: -44.5, y: 84.5}
+        - {x: -47.5, y: 68.5}
+        - {x: -54.5, y: 45.5}
+        - {x: -61.5, y: 23.5}
+        - {x: -59.5, y: -7.5}
+        - {x: -57.5, y: -36.5}
+      - - {x: 59.5, y: -260.5}
+        - {x: 57.5, y: -321.5}
+        - {x: 36.5, y: -321.5}
+        - {x: 33.5, y: -372.5}
+        - {x: 14.5, y: -369.5}
+        - {x: 7.5, y: -406.5}
+        - {x: 7.5, y: -444.5}
+        - {x: -6.5, y: -411.5}
+        - {x: -11.5, y: -390.5}
+        - {x: -14.5, y: -355.5}
+        - {x: -21.5, y: -330.5}
+        - {x: -36.5, y: -313.5}
+        - {x: -43.5, y: -289.5}
+        - {x: -39.5, y: -263.5}
+        - {x: -17.5, y: -253.5}
+        - {x: -9.5, y: -218.5}
+        - {x: -8.5, y: -199.5}
+        - {x: -4.5, y: -170.5}
+        - {x: 14.5, y: -152.5}
+        - {x: 27.5, y: -133.5}
+        - {x: 29.5, y: -91.5}
+        - {x: 40.5, y: -69.5}
+        - {x: 60.5, y: -69.5}
+        - {x: 66.5, y: -90.5}
+        - {x: 69.5, y: -195.5}
+        - {x: 69.5, y: -260.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b946c511d7962644b9836e984485688
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice Platforms set 2 icicles_2
+      rect:
+        serializedVersion: 2
+        x: 822
+        y: 1212
+        width: 406
+        height: 758
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -77, y: 171}
+        - {x: -90, y: 174}
+        - {x: -93, y: 161}
+        - {x: -97, y: 172}
+        - {x: -117, y: 174}
+        - {x: -121, y: 142}
+        - {x: -132, y: 188}
+        - {x: -134, y: 212}
+        - {x: -137, y: 236}
+        - {x: -140, y: 264}
+        - {x: -158, y: 262}
+        - {x: -159, y: 269}
+        - {x: -170, y: 266}
+        - {x: -173, y: 295}
+        - {x: -175, y: 323}
+        - {x: -174, y: 355}
+        - {x: -162, y: 362}
+        - {x: -145, y: 355}
+        - {x: -123, y: 355}
+        - {x: -113, y: 340}
+        - {x: -77, y: 326}
+        - {x: -56, y: 311}
+        - {x: -51, y: 301}
+        - {x: -51, y: 282}
+        - {x: -43, y: 269}
+        - {x: -11, y: 257}
+        - {x: -4, y: 242}
+        - {x: 0, y: 229}
+        - {x: 9, y: 214}
+        - {x: 20, y: 207}
+        - {x: 28, y: 195}
+        - {x: 25, y: 177}
+        - {x: 17, y: 166}
+        - {x: 9, y: 96}
+        - {x: 2, y: 37}
+        - {x: -7, y: 69}
+        - {x: -44, y: 72}
+        - {x: -52, y: -29}
+      - - {x: 121, y: -14}
+        - {x: 115, y: 2}
+        - {x: 117, y: 22}
+        - {x: 122, y: 36}
+        - {x: 121, y: 53}
+        - {x: 112, y: 85}
+        - {x: 112, y: 91}
+        - {x: 108, y: 108}
+        - {x: 112, y: 120}
+        - {x: 113, y: 141}
+        - {x: 115, y: 149}
+        - {x: 126, y: 154}
+        - {x: 138, y: 171}
+        - {x: 147, y: 195}
+        - {x: 151, y: 208}
+        - {x: 170, y: 216}
+        - {x: 179, y: 210}
+        - {x: 183, y: 190}
+        - {x: 185, y: 142}
+        - {x: 189, y: 110}
+        - {x: 188, y: 96}
+        - {x: 184, y: 78}
+        - {x: 171, y: 0}
+        - {x: 153, y: -1}
+        - {x: 150, y: -24}
+        - {x: 143, y: -40}
+        - {x: 139, y: -67}
+        - {x: 139, y: -104}
+        - {x: 133, y: -93}
+      - - {x: 37, y: -325}
+        - {x: 37, y: -270}
+        - {x: 29, y: -268}
+        - {x: 26, y: -277}
+        - {x: 14, y: -97}
+        - {x: 5, y: -80}
+        - {x: 6, y: -49}
+        - {x: 12, y: -31}
+        - {x: 20, y: -22}
+        - {x: 30, y: -20}
+        - {x: 39, y: -28}
+        - {x: 52, y: -31}
+        - {x: 54, y: -43}
+        - {x: 48, y: -56}
+        - {x: 51, y: -77}
+        - {x: 68, y: -83}
+        - {x: 74, y: -88}
+        - {x: 74, y: -121}
+        - {x: 70, y: -145}
+        - {x: 75, y: -162}
+        - {x: 71, y: -204}
+        - {x: 64, y: -212}
+        - {x: 56, y: -273}
+        - {x: 53, y: -334}
+        - {x: 48, y: -372}
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa2a3309f2a0dd240ae289af3145006e
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice Platforms set 2 icicles_3
+      rect:
+        serializedVersion: 2
+        x: 1374
+        y: 928
+        width: 281
+        height: 721
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 78.5, y: 48.5}
+        - {x: 75.5, y: 13.5}
+        - {x: 69.5, y: -19.5}
+        - {x: 63.5, y: 12.5}
+        - {x: 44.5, y: 10.5}
+        - {x: 42.5, y: -33.5}
+        - {x: 35.5, y: -13.5}
+        - {x: 32.5, y: 5.5}
+        - {x: 26.5, y: 83.5}
+        - {x: 26.5, y: 113.5}
+        - {x: 26.5, y: 136.5}
+        - {x: 22.5, y: 149.5}
+        - {x: 13.5, y: 200.5}
+        - {x: 29.5, y: 236.5}
+        - {x: 32.5, y: 258.5}
+        - {x: 43.5, y: 266.5}
+        - {x: 51.5, y: 299.5}
+        - {x: 69.5, y: 328.5}
+        - {x: 81.5, y: 328.5}
+        - {x: 91.5, y: 320.5}
+        - {x: 93.5, y: 262.5}
+        - {x: 96.5, y: 239.5}
+        - {x: 106.5, y: 228.5}
+        - {x: 102.5, y: 172.5}
+        - {x: 100.5, y: 153.5}
+        - {x: 98.5, y: 141.5}
+        - {x: 96.5, y: 46.5}
+      - - {x: -6.5, y: -229.5}
+        - {x: -10.5, y: -208.5}
+        - {x: -28.5, y: -127.5}
+        - {x: -41.5, y: -128.5}
+        - {x: -45.5, y: -158.5}
+        - {x: -58.5, y: -100.5}
+        - {x: -61.5, y: -19.5}
+        - {x: -69.5, y: -18.5}
+        - {x: -80.5, y: 10.5}
+        - {x: -92.5, y: 25.5}
+        - {x: -94.5, y: 45.5}
+        - {x: -98.5, y: 58.5}
+        - {x: -97.5, y: 89.5}
+        - {x: -100.5, y: 112.5}
+        - {x: -104.5, y: 126.5}
+        - {x: -103.5, y: 193.5}
+        - {x: -96.5, y: 193.5}
+        - {x: -91.5, y: 179.5}
+        - {x: -77.5, y: 164.5}
+        - {x: -71.5, y: 142.5}
+        - {x: -53.5, y: 129.5}
+        - {x: -46.5, y: 111.5}
+        - {x: -30.5, y: 87.5}
+        - {x: -20.5, y: 57.5}
+        - {x: -7.5, y: 43.5}
+        - {x: -7.5, y: 20.5}
+        - {x: -14.5, y: 2.5}
+        - {x: -9.5, y: -20.5}
+        - {x: 17.5, y: -26.5}
+        - {x: 26.5, y: -32.5}
+        - {x: 32.5, y: -62.5}
+        - {x: 46.5, y: -81.5}
+        - {x: 39.5, y: -155.5}
+        - {x: 35.5, y: -180.5}
+        - {x: 29.5, y: -197.5}
+        - {x: 21.5, y: -213.5}
+        - {x: 20.5, y: -235.5}
+        - {x: 16.5, y: -307.5}
+        - {x: 10.5, y: -332.5}
+        - {x: 5.5, y: -302.5}
+        - {x: 1.5, y: -282.5}
+        - {x: 1.5, y: -260.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: e68b8b71c34d322419c831f4ff994e03
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice Platforms set 2 icicles_4
+      rect:
+        serializedVersion: 2
+        x: 1739
+        y: 895
+        width: 257
+        height: 734
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 67.5, y: 117}
+        - {x: 61.5, y: 150}
+        - {x: 45.5, y: 149}
+        - {x: 42.5, y: 141}
+        - {x: 25.5, y: 195}
+        - {x: 15.5, y: 222}
+        - {x: 12.5, y: 241}
+        - {x: 5.5, y: 262}
+        - {x: 8.5, y: 285}
+        - {x: 17.5, y: 290}
+        - {x: 20.5, y: 311}
+        - {x: 35.5, y: 322}
+        - {x: 41.5, y: 336}
+        - {x: 53.5, y: 351}
+        - {x: 65.5, y: 350}
+        - {x: 83.5, y: 340}
+        - {x: 87.5, y: 321}
+        - {x: 86.5, y: 305}
+        - {x: 88.5, y: 285}
+        - {x: 94.5, y: 272}
+        - {x: 90.5, y: 204}
+        - {x: 79.5, y: 203}
+        - {x: 74.5, y: 185}
+      - - {x: -17.5, y: -328}
+        - {x: -33.5, y: -332}
+        - {x: -47.5, y: -267}
+        - {x: -50.5, y: -248}
+        - {x: -50.5, y: -230}
+        - {x: -61.5, y: -229}
+        - {x: -69.5, y: -208}
+        - {x: -85.5, y: -62}
+        - {x: -81.5, y: -46}
+        - {x: -65.5, y: -46}
+        - {x: -47.5, y: -73}
+        - {x: -24.5, y: -76}
+        - {x: -16.5, y: -82}
+        - {x: -22.5, y: -118}
+        - {x: 6.5, y: -147}
+        - {x: 11.5, y: -191}
+        - {x: 21.5, y: -200}
+        - {x: 22.5, y: -227}
+        - {x: 13.5, y: -245}
+        - {x: 12.5, y: -257}
+        - {x: -0.5, y: -303}
+        - {x: -7.5, y: -353}
+      tessellationDetail: 0
+      bones: []
+      spriteID: e71b5794e26fe38488b1a2c6723dc950
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice Platforms set 2 icicles_5
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 0
+        width: 341
+        height: 545
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -25.5, y: -13.5}
+        - {x: -32.5, y: 36.5}
+        - {x: -47.5, y: 37.5}
+        - {x: -52.5, y: -8.5}
+        - {x: -58.5, y: 35.5}
+        - {x: -68.5, y: 34.5}
+        - {x: -74.5, y: 35.5}
+        - {x: -80.5, y: 69.5}
+        - {x: -84.5, y: 97.5}
+        - {x: -97.5, y: 96.5}
+        - {x: -111.5, y: 146.5}
+        - {x: -114.5, y: 167.5}
+        - {x: -119.5, y: 198.5}
+        - {x: -128.5, y: 208.5}
+        - {x: -132.5, y: 222.5}
+        - {x: -123.5, y: 245.5}
+        - {x: -110.5, y: 251.5}
+        - {x: -95.5, y: 244.5}
+        - {x: -87.5, y: 231.5}
+        - {x: -65.5, y: 223.5}
+        - {x: -54.5, y: 204.5}
+        - {x: -27.5, y: 198.5}
+        - {x: -10.5, y: 175.5}
+        - {x: -9.5, y: 146.5}
+        - {x: -15.5, y: 122.5}
+        - {x: -15.5, y: 80.5}
+        - {x: -20.5, y: 9.5}
+      - - {x: 124.5, y: -176.5}
+        - {x: 116.5, y: -155.5}
+        - {x: 92.5, y: -152.5}
+        - {x: 90.5, y: -171.5}
+        - {x: 85.5, y: -159.5}
+        - {x: 79.5, y: -146.5}
+        - {x: 60.5, y: -146.5}
+        - {x: 55.5, y: -209.5}
+        - {x: 51.5, y: -262.5}
+        - {x: 43.5, y: -250.5}
+        - {x: 24.5, y: -174.5}
+        - {x: 16.5, y: -78.5}
+        - {x: 19.5, y: -64.5}
+        - {x: 26.5, y: -51.5}
+        - {x: 27.5, y: -33.5}
+        - {x: 29.5, y: -22.5}
+        - {x: 39.5, y: -7.5}
+        - {x: 40.5, y: 18.5}
+        - {x: 57.5, y: 36.5}
+        - {x: 69.5, y: 49.5}
+        - {x: 77.5, y: 64.5}
+        - {x: 75.5, y: 88.5}
+        - {x: 66.5, y: 109.5}
+        - {x: 61.5, y: 147.5}
+        - {x: 74.5, y: 167.5}
+        - {x: 74.5, y: 189.5}
+        - {x: 77.5, y: 206.5}
+        - {x: 88.5, y: 217.5}
+        - {x: 101.5, y: 219.5}
+        - {x: 106.5, y: 203.5}
+        - {x: 117.5, y: 190.5}
+        - {x: 127.5, y: 158.5}
+        - {x: 129.5, y: 140.5}
+        - {x: 135.5, y: 125.5}
+        - {x: 135.5, y: 49.5}
+        - {x: 130.5, y: 33.5}
+        - {x: 127.5, y: 6.5}
+        - {x: 129.5, y: -96.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94dbd7936dcf7b845a2f4490f4f04b84
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice Platforms set 2 icicles_7
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 0
+        width: 483
+        height: 872
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -118.5, y: 155}
+        - {x: -123.5, y: 205}
+        - {x: -131.5, y: 242}
+        - {x: -147.5, y: 244}
+        - {x: -152.5, y: 231}
+        - {x: -163.5, y: 269}
+        - {x: -182.5, y: 272}
+        - {x: -184.5, y: 256}
+        - {x: -197.5, y: 284}
+        - {x: -207.5, y: 345}
+        - {x: -216.5, y: 388}
+        - {x: -218.5, y: 400}
+        - {x: -209.5, y: 408}
+        - {x: -199.5, y: 406}
+        - {x: -178.5, y: 381}
+        - {x: -147.5, y: 343}
+        - {x: -115.5, y: 332}
+        - {x: -93.5, y: 317}
+        - {x: -83.5, y: 296}
+        - {x: -85.5, y: 286}
+        - {x: -90.5, y: 274}
+        - {x: -96.5, y: 211}
+        - {x: -105.5, y: 164}
+        - {x: -114.5, y: 137}
+      - - {x: 179.5, y: -121}
+        - {x: 172.5, y: -148}
+        - {x: 163.5, y: -127}
+        - {x: 148.5, y: -128}
+        - {x: 143.5, y: -177}
+        - {x: 139.5, y: -161}
+        - {x: 132.5, y: -102}
+        - {x: 116.5, y: -106}
+        - {x: 110.5, y: -93}
+        - {x: 101.5, y: -52}
+        - {x: 104.5, y: -40}
+        - {x: 101.5, y: -18}
+        - {x: 119.5, y: 20}
+        - {x: 144.5, y: 31}
+        - {x: 156.5, y: 44}
+        - {x: 157.5, y: 79}
+        - {x: 165.5, y: 89}
+        - {x: 174.5, y: 93}
+        - {x: 198.5, y: 99}
+        - {x: 210.5, y: 97}
+        - {x: 213.5, y: 89}
+        - {x: 209.5, y: 74}
+        - {x: 216.5, y: 52}
+        - {x: 216.5, y: -15}
+        - {x: 210.5, y: -78}
+        - {x: 182.5, y: -72}
+      - - {x: 51.5, y: -366}
+        - {x: 50.5, y: -337}
+        - {x: 38.5, y: -337}
+        - {x: 27.5, y: -300}
+        - {x: 23.5, y: -255}
+        - {x: 10.5, y: -260}
+        - {x: 3.5, y: -236}
+        - {x: -1.5, y: -188}
+        - {x: -14.5, y: -133}
+        - {x: -22.5, y: -132}
+        - {x: -32.5, y: -147}
+        - {x: -42.5, y: -100}
+        - {x: -56.5, y: -98}
+        - {x: -62.5, y: -119}
+        - {x: -67.5, y: -99}
+        - {x: -79.5, y: -5}
+        - {x: -70.5, y: 6}
+        - {x: -72.5, y: 22}
+        - {x: -79.5, y: 34}
+        - {x: -91.5, y: 55}
+        - {x: -91.5, y: 68}
+        - {x: -85.5, y: 79}
+        - {x: -74.5, y: 75}
+        - {x: -60.5, y: 54}
+        - {x: -35.5, y: 51}
+        - {x: -23.5, y: 43}
+        - {x: -10.5, y: 23}
+        - {x: 0.5, y: 8}
+        - {x: 25.5, y: 0}
+        - {x: 39.5, y: -28}
+        - {x: 38.5, y: -57}
+        - {x: 38.5, y: -78}
+        - {x: 63.5, y: -99}
+        - {x: 70.5, y: -121}
+        - {x: 86.5, y: -132}
+        - {x: 98.5, y: -150}
+        - {x: 95.5, y: -170}
+        - {x: 89.5, y: -199}
+        - {x: 84.5, y: -232}
+        - {x: 83.5, y: -264}
+        - {x: 83.5, y: -297}
+        - {x: 78.5, y: -332}
+        - {x: 70.5, y: -356}
+        - {x: 63.5, y: -397}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 372295965e351a448b3095984228050e
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice Platforms set 2 icicles_8
+      rect:
+        serializedVersion: 2
+        x: 1073
+        y: 0
+        width: 370
+        height: 682
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 114, y: 4}
+        - {x: 105, y: 32}
+        - {x: 65, y: 34}
+        - {x: 58, y: -7}
+        - {x: 39, y: 48}
+        - {x: 29, y: 119}
+        - {x: 20, y: 152}
+        - {x: 21, y: 167}
+        - {x: 39, y: 183}
+        - {x: 50, y: 256}
+        - {x: 59, y: 274}
+        - {x: 87, y: 287}
+        - {x: 97, y: 317}
+        - {x: 107, y: 327}
+        - {x: 139, y: 324}
+        - {x: 148, y: 312}
+        - {x: 151, y: 229}
+        - {x: 147, y: 155}
+        - {x: 150, y: 105}
+        - {x: 145, y: 81}
+        - {x: 126, y: 84}
+        - {x: 121, y: 62}
+        - {x: 122, y: 30}
+      - - {x: -31, y: -291}
+        - {x: -33, y: -276}
+        - {x: -62, y: -278}
+        - {x: -63, y: -296}
+        - {x: -71, y: -282}
+        - {x: -81, y: -230}
+        - {x: -88, y: -204}
+        - {x: -108, y: -209}
+        - {x: -112, y: -189}
+        - {x: -117, y: -146}
+        - {x: -119, y: -109}
+        - {x: -134, y: -113}
+        - {x: -138, y: -91}
+        - {x: -144, y: -47}
+        - {x: -156, y: -14}
+        - {x: -154, y: 11}
+        - {x: -139, y: 37}
+        - {x: -139, y: 55}
+        - {x: -141, y: 81}
+        - {x: -140, y: 99}
+        - {x: -125, y: 114}
+        - {x: -112, y: 112}
+        - {x: -108, y: 88}
+        - {x: -91, y: 69}
+        - {x: -87, y: 53}
+        - {x: -82, y: 24}
+        - {x: -57, y: 4}
+        - {x: -65, y: -50}
+        - {x: -51, y: -83}
+        - {x: -49, y: -98}
+        - {x: -34, y: -112}
+        - {x: -14, y: -107}
+        - {x: 0, y: -111}
+        - {x: -1, y: -128}
+        - {x: -5, y: -151}
+        - {x: -3, y: -186}
+        - {x: -13, y: -211}
+        - {x: -18, y: -229}
+        - {x: -20, y: -257}
+        - {x: -23, y: -294}
+        - {x: -24, y: -316}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a3619d131cd11b429168281c231e84f
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice Platforms set 2 icicles_9
+      rect:
+        serializedVersion: 2
+        x: 1710
+        y: 0
+        width: 238
+        height: 456
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 67, y: -189}
+        - {x: 56, y: -219}
+        - {x: 38, y: -173}
+        - {x: 32, y: -146}
+        - {x: 10, y: -143}
+        - {x: -1, y: -122}
+        - {x: -15, y: -74}
+        - {x: -39, y: -70}
+        - {x: -56, y: 2}
+        - {x: -60, y: 62}
+        - {x: -67, y: 113}
+        - {x: -67, y: 164}
+        - {x: -63, y: 199}
+        - {x: -32, y: 207}
+        - {x: -18, y: 195}
+        - {x: -6, y: 132}
+        - {x: -5, y: 101}
+        - {x: 15, y: 85}
+        - {x: 36, y: 61}
+        - {x: 37, y: -5}
+        - {x: 27, y: -28}
+        - {x: 34, y: -59}
+        - {x: 57, y: -76}
+        - {x: 79, y: -108}
+        - {x: 74, y: -143}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45f51036fc2e045479afafad1b468f85
+      internalID: 21300016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 36ccda313cfc69845bc57f8436d4a3b8
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Ice Platforms set 2 icicles_0: 21300000
+      Ice Platforms set 2 icicles_1: 21300002
+      Ice Platforms set 2 icicles_2: 21300004
+      Ice Platforms set 2 icicles_3: 21300006
+      Ice Platforms set 2 icicles_4: 21300008
+      Ice Platforms set 2 icicles_5: 21300010
+      Ice Platforms set 2 icicles_7: 21300012
+      Ice Platforms set 2 icicles_8: 21300014
+      Ice Platforms set 2 icicles_9: 21300016
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

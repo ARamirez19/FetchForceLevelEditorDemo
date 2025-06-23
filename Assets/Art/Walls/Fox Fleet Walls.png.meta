@@ -1,0 +1,330 @@
+fileFormatVersion: 2
+guid: bb67cc1f5def673458a00557397ce1f0
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: Fox Fleet Walls_0
+  - first:
+      213: 21300002
+    second: Fox Fleet Walls_1
+  - first:
+      213: 21300004
+    second: Fox Fleet Walls_2
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 300
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: tvOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Fox Fleet Walls_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3450
+        width: 951
+        height: 2694
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -430.5, y: -1271}
+        - {x: -432.5, y: -1031}
+        - {x: -395.5, y: -1002}
+        - {x: -364.5, y: -998}
+        - {x: -359.5, y: -396}
+        - {x: -383.5, y: -394}
+        - {x: -398.5, y: -374}
+        - {x: -399.5, y: -282}
+        - {x: -379.5, y: -255}
+        - {x: -362.5, y: -253}
+        - {x: -357.5, y: 951}
+        - {x: -409.5, y: 949}
+        - {x: -408.5, y: 1139}
+        - {x: -383.5, y: 1160}
+        - {x: -364.5, y: 1161}
+        - {x: -304.5, y: 1255}
+        - {x: -218.5, y: 1257}
+        - {x: -218.5, y: 1308}
+        - {x: -67.5, y: 1308}
+        - {x: -6.5, y: 1284}
+        - {x: 55.5, y: 1308}
+        - {x: 202.5, y: 1308}
+        - {x: 203.5, y: 1256}
+        - {x: 283.5, y: 1258}
+        - {x: 347.5, y: 1161}
+        - {x: 367.5, y: 1161}
+        - {x: 391.5, y: 1142}
+        - {x: 395.5, y: 949}
+        - {x: 344.5, y: 947}
+        - {x: 349.5, y: -255}
+        - {x: 366.5, y: -258}
+        - {x: 383.5, y: -282}
+        - {x: 384.5, y: -374}
+        - {x: 365.5, y: -389}
+        - {x: 346.5, y: -397}
+        - {x: 350.5, y: -998}
+        - {x: 380.5, y: -1000}
+        - {x: 416.5, y: -1029}
+        - {x: 417.5, y: -1271}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b9062c98a9a2764a9526ad00a47d4ed
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fox Fleet Walls_1
+      rect:
+        serializedVersion: 2
+        x: 983
+        y: 4351
+        width: 1252
+        height: 1793
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -538, y: -805.5}
+        - {x: -482, y: -672.5}
+        - {x: -465, y: -643.5}
+        - {x: -466, y: -402.5}
+        - {x: -525, y: -337.5}
+        - {x: -522, y: -246.5}
+        - {x: 6, y: 33.5}
+        - {x: -12, y: 153.5}
+        - {x: -9, y: 692.5}
+        - {x: 30, y: 712.5}
+        - {x: 45, y: 758.5}
+        - {x: 369, y: 851.5}
+        - {x: 499, y: 698.5}
+        - {x: 496, y: -214.5}
+        - {x: 471, y: -265.5}
+        - {x: 471, y: -646.5}
+        - {x: 494, y: -676.5}
+        - {x: 535, y: -804.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00f36b25346526942ad63dbd35512cdd
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fox Fleet Walls_2
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 0
+        width: 4448
+        height: 892
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 823, y: 0, z: 866, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 1689.5, y: -359}
+        - {x: 1617.5, y: -330}
+        - {x: -1645.5, y: -328}
+        - {x: -1712.5, y: -360}
+        - {x: -1937.5, y: -360}
+        - {x: -1931.5, y: -104}
+        - {x: -1997.5, y: -69}
+        - {x: -2032.5, y: -37}
+        - {x: -2033.5, y: 7}
+        - {x: -2073.5, y: 42}
+        - {x: -2173.5, y: 251}
+        - {x: -2133.5, y: 335}
+        - {x: 2108.5, y: 335}
+        - {x: 2149.5, y: 250}
+        - {x: 2049.5, y: 35}
+        - {x: 2010.5, y: -34}
+        - {x: 1970.5, y: -72}
+        - {x: 1910.5, y: -111}
+        - {x: 1913.5, y: -358}
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb5eaacd9c6f9f1489a794f40f48b7ab
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 6d5beef0ea641914fb74b109cbf5e777
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Fox Fleet Walls_0: 21300000
+      Fox Fleet Walls_1: 21300002
+      Fox Fleet Walls_2: 21300004
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

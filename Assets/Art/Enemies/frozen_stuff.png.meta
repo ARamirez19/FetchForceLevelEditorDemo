@@ -1,0 +1,255 @@
+fileFormatVersion: 2
+guid: 0c2cf6c6506297a40a7e266bc3de7f7e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: frozen_stuff_0
+  - first:
+      213: 21300002
+    second: frozen_stuff_1
+  - first:
+      213: 21300004
+    second: frozen_stuff_2
+  - first:
+      213: 21300006
+    second: frozen_stuff_3
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: frozen_stuff_0
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 1025
+        width: 977
+        height: 943
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -328.5, y: 271.5}
+        - {x: -30.5, y: 443.5}
+        - {x: 126.5, y: 469.5}
+        - {x: 253.5, y: 381.5}
+        - {x: 299.5, y: 316.5}
+        - {x: 407.5, y: 206.5}
+        - {x: 460.5, y: 133.5}
+        - {x: 355.5, y: -98.5}
+        - {x: 465.5, y: -151.5}
+        - {x: 488.5, y: -245.5}
+        - {x: 429.5, y: -348.5}
+        - {x: 239.5, y: -427.5}
+        - {x: -75.5, y: -471.5}
+        - {x: -474.5, y: -274.5}
+        - {x: -488.5, y: -29.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: c72f639439cf3e74c925016a253e3418
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frozen_stuff_1
+      rect:
+        serializedVersion: 2
+        x: 1062
+        y: 1307
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e777b9a0164f552459a7adff8ba6afc6
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frozen_stuff_2
+      rect:
+        serializedVersion: 2
+        x: 1141
+        y: 1076
+        width: 687
+        height: 788
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 100.5, y: -250}
+        - {x: 12.5, y: -199}
+        - {x: -65.5, y: -284}
+        - {x: -176.5, y: -234}
+        - {x: -330.5, y: 115}
+        - {x: -248.5, y: 292}
+        - {x: -48.5, y: 392}
+        - {x: 162.5, y: 355}
+        - {x: 306.5, y: 245}
+        - {x: 343.5, y: 39}
+        - {x: 172.5, y: -229}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49120d7446682bd46b1bdee2ce72166f
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frozen_stuff_3
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 8
+        width: 764
+        height: 1024
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 255, y: -220}
+        - {x: 136, y: -209}
+        - {x: 82, y: -334}
+        - {x: -177, y: -375}
+        - {x: -262, y: -221}
+        - {x: -324, y: 32}
+        - {x: -287, y: 155}
+        - {x: -170, y: 185}
+        - {x: -148, y: 350}
+        - {x: -5, y: 482}
+        - {x: 203, y: 473}
+        - {x: 338, y: 360}
+        - {x: 364, y: 279}
+        - {x: 296, y: 181}
+        - {x: 374, y: 99}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03354331cd1f741469952855e224b2b6
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 06cf4a423659c2b4ca172f6185956b02
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      frozen_stuff_0: 21300000
+      frozen_stuff_1: 21300002
+      frozen_stuff_2: 21300004
+      frozen_stuff_3: 21300006
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

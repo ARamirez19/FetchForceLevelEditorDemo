@@ -1,0 +1,279 @@
+fileFormatVersion: 2
+guid: 9f5b71850d425c4478d385795368a645
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: Carrot Collector_top
+  - first:
+      213: 21300002
+    second: Carrot Collector_bottom
+  - first:
+      213: 21300004
+    second: Carrot Collector_glass
+  - first:
+      213: 21300006
+    second: Carrot Collector_earL
+  - first:
+      213: 21300008
+    second: Carrot Collector_earR
+  - first:
+      213: 21300010
+    second: Carrot Collector_jetpack
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Carrot Collector_top
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1470
+        width: 895
+        height: 578
+      alignment: 9
+      pivot: {x: 0.51572686, y: 0.30518168}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 753589e6cbb5690419c01330675c6d1f
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrot Collector_bottom
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 381
+        width: 888
+        height: 491
+      alignment: 9
+      pivot: {x: 0.5211345, y: 0.5382227}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 204, y: -245.5}
+        - {x: -157, y: -245.5}
+        - {x: -444, y: 20.5}
+        - {x: -444, y: 245.5}
+        - {x: 444, y: 245.5}
+        - {x: 444, y: -22.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5226322f658eeac478b2ac4c4d5fde1b
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrot Collector_glass
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 874
+        width: 895
+        height: 600
+      alignment: 9
+      pivot: {x: 0.5131864, y: 0.024828492}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 555e2f01bda6181449a712502582c3b7
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrot Collector_earL
+      rect:
+        serializedVersion: 2
+        x: 895
+        y: 1622
+        width: 199
+        height: 387
+      alignment: 9
+      pivot: {x: 0.97154415, y: 0.08173223}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57861cd35a72e5b449540212ded096cb
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrot Collector_earR
+      rect:
+        serializedVersion: 2
+        x: 916
+        y: 1230
+        width: 192
+        height: 359
+      alignment: 9
+      pivot: {x: 0.18232124, y: 0.04911001}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99476d69fb21a0745a6f6cb626325c46
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrot Collector_jetpack
+      rect:
+        serializedVersion: 2
+        x: 841
+        y: 0
+        width: 1207
+        height: 1287
+      alignment: 9
+      pivot: {x: 0.4999999, y: 0.5583293}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -223.5, y: -643.5}
+        - {x: -603.5, y: -347.5}
+        - {x: -557.5, y: -40.5}
+        - {x: -481.5, y: 514.5}
+        - {x: -300.5, y: 643.5}
+        - {x: 381.5, y: 643.5}
+        - {x: 555.5, y: 589.5}
+        - {x: 603.5, y: -319.5}
+        - {x: 534.5, y: -643.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 823ed6edc4584134ea665bc32cfc4f12
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: ae810df366bc41a4bb7ede50246d8f7c
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Carrot Collector_bottom: 21300002
+      Carrot Collector_earL: 21300006
+      Carrot Collector_earR: 21300008
+      Carrot Collector_glass: 21300004
+      Carrot Collector_jetpack: 21300010
+      Carrot Collector_top: 21300000
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

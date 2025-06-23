@@ -1,0 +1,92 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: IconsAtlas
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 0
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: 0b44d17fa99cf054b9005e8f6f4f63a2, type: 3}
+    totalSpriteSurfaceArea: 2692761
+    bindAsDefault: 1
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 774cc000664daf64797e74aa69728d96, type: 3}
+  - {fileID: 21300000, guid: fec9b8409bbfeaa4a885d1f701a907a1, type: 3}
+  - {fileID: 21300000, guid: cfa30e40b48b5e64b88a7796561879e4, type: 3}
+  - {fileID: 21300000, guid: a528a0d05c797d44096690d7f59faba9, type: 3}
+  - {fileID: 21300000, guid: da253b217481b8b4ba6dbf96740fd112, type: 3}
+  - {fileID: 21300000, guid: a0ce3fe1a01bad84988435f7cebe88b7, type: 3}
+  - {fileID: 21300000, guid: bb04b45220c42554083e57cb10e0ba90, type: 3}
+  - {fileID: 21300000, guid: 30edcd23e00062247b743e2853249a1b, type: 3}
+  - {fileID: 21300000, guid: 8307c373a21990347a10544f1a7ff700, type: 3}
+  - {fileID: 21300000, guid: f77f21831defb33419977f8844666329, type: 3}
+  - {fileID: 21300000, guid: b3caa2e38ab5eb24b985fa1e86926bfa, type: 3}
+  - {fileID: 21300000, guid: 743dbc85b37fc0a48a75c2123421194a, type: 3}
+  - {fileID: 21300000, guid: fc2165b76403944479b1c3972d1c3d3f, type: 3}
+  - {fileID: 21300000, guid: 1254cae81ff031f468d80b7d4fa0f030, type: 3}
+  - {fileID: 21300000, guid: b1379179949cf9644852374629e5dd80, type: 3}
+  - {fileID: 21300000, guid: 89428bba52c0e4f4e9fe157d4137c219, type: 3}
+  - {fileID: 21300000, guid: 7df498cae84c5274987c84175ed5b38a, type: 3}
+  - {fileID: 21300000, guid: 1421ff2bcd88c3a42bdc20d5f1e72ec1, type: 3}
+  - {fileID: 21300000, guid: 3f6d7d4b3de125e4c88d884ba9c1b3ba, type: 3}
+  - {fileID: 21300000, guid: 5774a7abca43f5f4db4ca1005483dbe8, type: 3}
+  - {fileID: 21300000, guid: ef976acb3f6ad9b439622772f349aa8b, type: 3}
+  - {fileID: 21300000, guid: 18a22c0dbaa7f324cbf85bd9133ccc3e, type: 3}
+  - {fileID: 21300000, guid: 99abc08dc49bc1e47ae4519096f94665, type: 3}
+  - {fileID: 21300000, guid: 7fe2640e9136eaf479c196b7f372ad49, type: 3}
+  - {fileID: 21300000, guid: bacc4c6e8cc947e4da5608341690205c, type: 3}
+  - {fileID: 21300000, guid: ec553a7eae54bf34380b0fe0d66d3a22, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - Minus
+  - CheckOn
+  - Plus
+  - HeartPotion
+  - StarEmpty
+  - Carrot
+  - Settings
+  - CheckOff
+  - Padlock
+  - Replay
+  - Button2
+  - back
+  - Meteorite
+  - ArrowButton
+  - TitleBG
+  - Planet2
+  - Planet
+  - Rocket
+  - kjhba_SFKJALSHNDGLKASDG
+  - FetchForce_logoBG
+  - Button3
+  - Cubark no outline
+  - TickOff
+  - Button
+  - Star
+  - TickOn
+  m_Tag: IconsAtlas
+  m_IsVariant: 0

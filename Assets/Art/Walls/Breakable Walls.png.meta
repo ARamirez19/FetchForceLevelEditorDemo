@@ -1,0 +1,1518 @@
+fileFormatVersion: 2
+guid: 04b1e6e72305b5042b6837d3fb01a02d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: Breakable Walls_0
+  - first:
+      213: 21300002
+    second: Breakable Walls_1
+  - first:
+      213: 21300004
+    second: Breakable Walls_2
+  - first:
+      213: 21300006
+    second: Breakable Walls_3
+  - first:
+      213: 21300008
+    second: Breakable Walls_4
+  - first:
+      213: 21300010
+    second: Breakable Walls_5
+  - first:
+      213: 21300012
+    second: Breakable Walls_6
+  - first:
+      213: 21300014
+    second: Breakable Walls_7
+  - first:
+      213: 21300016
+    second: Breakable Walls_8
+  - first:
+      213: 21300018
+    second: Breakable Walls_9
+  - first:
+      213: 21300020
+    second: Breakable Walls_10
+  - first:
+      213: 21300022
+    second: Breakable Walls_11
+  - first:
+      213: 21300024
+    second: Breakable Walls_12
+  - first:
+      213: 21300026
+    second: Breakable Walls_13
+  - first:
+      213: 21300028
+    second: Breakable Walls_14
+  - first:
+      213: 21300030
+    second: Breakable Walls_15
+  - first:
+      213: 21300032
+    second: Breakable Walls_16
+  - first:
+      213: 21300034
+    second: Breakable Walls_17
+  - first:
+      213: 21300036
+    second: Breakable Walls_18
+  - first:
+      213: 21300038
+    second: Breakable Walls_19
+  - first:
+      213: 21300040
+    second: Breakable Walls_20
+  - first:
+      213: 21300042
+    second: Breakable Walls_21
+  - first:
+      213: 21300044
+    second: Breakable Walls_22
+  - first:
+      213: 21300046
+    second: Breakable Walls_23
+  - first:
+      213: 21300048
+    second: Breakable Walls_24
+  - first:
+      213: 21300050
+    second: Breakable Walls_25
+  - first:
+      213: 21300052
+    second: Breakable Walls_26
+  - first:
+      213: 21300054
+    second: Breakable Walls_27
+  - first:
+      213: 21300056
+    second: Breakable Walls_28
+  - first:
+      213: 21300058
+    second: Breakable Walls_29
+  - first:
+      213: 21300060
+    second: Breakable Walls_30
+  - first:
+      213: 21300062
+    second: Breakable Walls_31
+  - first:
+      213: 21300064
+    second: Breakable Walls_32
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 50
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: tvOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Breakable Walls_0
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 618
+        width: 272
+        height: 175
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 73, y: -22.5}
+        - {x: 57, y: -31.5}
+        - {x: 28, y: -46.5}
+        - {x: -30, y: -72.5}
+        - {x: -61, y: -71.5}
+        - {x: -117, y: -54.5}
+        - {x: -128, y: -42.5}
+        - {x: -126, y: -33.5}
+        - {x: -126, y: -14.5}
+        - {x: -118, y: 6.5}
+        - {x: -97, y: 17.5}
+        - {x: -46, y: 48.5}
+        - {x: 14, y: 65.5}
+        - {x: 61, y: 75.5}
+        - {x: 88, y: 72.5}
+        - {x: 114, y: 68.5}
+        - {x: 125, y: 57.5}
+        - {x: 129, y: 44.5}
+        - {x: 127, y: 25.5}
+        - {x: 110, y: 5.5}
+        - {x: 89, y: -14.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1033067aa07d63b4cab997912bb07f66
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Breakable Walls_1
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 428
+        width: 115
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 6.5, y: -62}
+        - {x: -4.5, y: -60}
+        - {x: -14.5, y: -56}
+        - {x: -26.5, y: -46}
+        - {x: -39.5, y: -34}
+        - {x: -47.5, y: -21}
+        - {x: -50.5, y: -5}
+        - {x: -48.5, y: 14}
+        - {x: -36.5, y: 44}
+        - {x: -22.5, y: 57}
+        - {x: -9.5, y: 63}
+        - {x: -2.5, y: 63}
+        - {x: 12.5, y: 57}
+        - {x: 37.5, y: 42}
+        - {x: 42.5, y: 33}
+        - {x: 45.5, y: 20}
+        - {x: 47.5, y: -19}
+        - {x: 47.5, y: -28}
+        - {x: 43.5, y: -40}
+        - {x: 37.5, y: -52}
+        - {x: 21.5, y: -62}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3989f687000d01147871bc61d3500456
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Breakable Walls_2
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 430
+        width: 88
+        height: 138
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 5, y: -38}
+        - {x: -10, y: -35}
+        - {x: -23, y: -27}
+        - {x: -33, y: -16}
+        - {x: -37, y: -7}
+        - {x: -36, y: 7}
+        - {x: -31, y: 20}
+        - {x: -25, y: 32}
+        - {x: -8, y: 37}
+        - {x: 8, y: 32}
+        - {x: 36, y: 27}
+        - {x: 37, y: 22}
+        - {x: 33, y: -7}
+        - {x: 27, y: -20}
+        - {x: 17, y: -35}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c1323b917ca70f4ab089e035d423bca
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Breakable Walls_3
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 245
+        width: 122
+        height: 132
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 24, y: -47}
+        - {x: -1, y: -43}
+        - {x: -18, y: -38}
+        - {x: -33, y: -41}
+        - {x: -44, y: -35}
+        - {x: -54, y: -25}
+        - {x: -58, y: -18}
+        - {x: -58, y: -8}
+        - {x: -57, y: 7}
+        - {x: -54, y: 19}
+        - {x: -48, y: 34}
+        - {x: -42, y: 42}
+        - {x: -32, y: 47}
+        - {x: 23, y: 52}
+        - {x: 40, y: 46}
+        - {x: 46, y: 41}
+        - {x: 48, y: 37}
+        - {x: 48, y: -7}
+        - {x: 47, y: -29}
+        - {x: 33, y: -45}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ec4d94b37495fa4fb42b7f1279022d6
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Breakable Walls_4
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 257
+        width: 104
+        height: 119
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 17, y: -29.5}
+        - {x: 1, y: -39.5}
+        - {x: -12, y: -39.5}
+        - {x: -21, y: -36.5}
+        - {x: -27, y: -29.5}
+        - {x: -32, y: -16.5}
+        - {x: -37, y: 0.5}
+        - {x: -38, y: 11.5}
+        - {x: -36, y: 17.5}
+        - {x: -26, y: 24.5}
+        - {x: -16, y: 26.5}
+        - {x: -1, y: 46.5}
+        - {x: 10, y: 46.5}
+        - {x: 18, y: 42.5}
+        - {x: 29, y: 33.5}
+        - {x: 39, y: 22.5}
+        - {x: 40, y: 14.5}
+        - {x: 37, y: 3.5}
+        - {x: 27, y: -17.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6420be9065f7bd140b3812ca33919063
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Breakable Walls_5
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 25
+        width: 172
+        height: 172
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -11, y: -73}
+        - {x: -21, y: -74}
+        - {x: -39, y: -60}
+        - {x: -57, y: -43}
+        - {x: -66, y: -32}
+        - {x: -78, y: -13}
+        - {x: -77, y: 0}
+        - {x: -73, y: 5}
+        - {x: -67, y: 23}
+        - {x: -63, y: 42}
+        - {x: -58, y: 54}
+        - {x: -41, y: 63}
+        - {x: -30, y: 74}
+        - {x: -21, y: 74}
+        - {x: 4, y: 55}
+        - {x: 56, y: 3}
+        - {x: 67, y: -5}
+        - {x: 75, y: -15}
+        - {x: 77, y: -26}
+        - {x: 75, y: -36}
+        - {x: 70, y: -43}
+        - {x: 55, y: -51}
+        - {x: 36, y: -60}
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5e14bb449c9809429e87547249d83b3
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Breakable Walls_6
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 57
+        width: 94
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -25, y: -36}
+        - {x: -32, y: -33}
+        - {x: -41, y: -24}
+        - {x: -41, y: -8}
+        - {x: -38, y: -4}
+        - {x: -38, y: 5}
+        - {x: -30, y: 27}
+        - {x: -18, y: 37}
+        - {x: -5, y: 42}
+        - {x: 12, y: 43}
+        - {x: 20, y: 38}
+        - {x: 36, y: 22}
+        - {x: 39, y: 4}
+        - {x: 37, y: -5}
+        - {x: 28, y: -29}
+        - {x: 15, y: -36}
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccefd8ab55e1c0c479d03f96efe2471e
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Breakable Walls_7
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 506
+        width: 107
+        height: 284
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 2.5, y: -127}
+        - {x: -21.5, y: -14}
+        - {x: -34.5, y: 8}
+        - {x: -46.5, y: 26}
+        - {x: -42.5, y: 68}
+        - {x: -25.5, y: 133}
+        - {x: -13.5, y: 134}
+        - {x: -6.5, y: 112}
+        - {x: -0.5, y: 109}
+        - {x: -0.5, y: 97}
+        - {x: 28.5, y: 35}
+        - {x: 34.5, y: 27}
+        - {x: 32.5, y: -22}
+        - {x: 32.5, y: -40}
+        - {x: 40.5, y: -81}
+        - {x: 44.5, y: -96}
+        - {x: 31.5, y: -120}
+        - {x: 20.5, y: -134}
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbacdf9db7da215409e5feb0e7ccf524
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Breakable Walls_8
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 547
+        width: 105
+        height: 207
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -27.5, y: -89.5}
+        - {x: -37.5, y: -90.5}
+        - {x: -43.5, y: -87.5}
+        - {x: -44.5, y: -82.5}
+        - {x: -23.5, y: -22.5}
+        - {x: -18.5, y: -14.5}
+        - {x: -18.5, y: -8.5}
+        - {x: -15.5, y: 3.5}
+        - {x: -15.5, y: 28.5}
+        - {x: -9.5, y: 72.5}
+        - {x: 8.5, y: 81.5}
+        - {x: 36.5, y: 90.5}
+        - {x: 45.5, y: 87.5}
+        - {x: 42.5, y: 31.5}
+        - {x: 38.5, y: 17.5}
+        - {x: 11.5, y: -48.5}
+        - {x: 15.5, y: -52.5}
+        - {x: 14.5, y: -66.5}
+        - {x: 10.5, y: -72.5}
+        - {x: 5.5, y: -72.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2bfce8dfa52f28448e9c8d438d31c12
+      internalID: 21300016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Breakable Walls_9
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 393
+        width: 46
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 7, y: -14.5}
+        - {x: 0, y: -13.5}
+        - {x: -5, y: -9.5}
+        - {x: -10, y: -10.5}
+        - {x: -15, y: -1.5}
+        - {x: -13, y: 8.5}
+        - {x: -6, y: 16.5}
+        - {x: 6, y: 14.5}
+        - {x: 16, y: 3.5}
+        - {x: 16, y: -3.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47414433d5bec274995c5981f3495099
+      internalID: 21300018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Breakable Walls_10
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 286
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -9, y: -4.5}
+        - {x: -8, y: 3.5}
+        - {x: -5, y: 8.5}
+        - {x: 1, y: 9.5}
+        - {x: 7, y: 4.5}
+        - {x: 5, y: -3.5}
+        - {x: 2, y: -7.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 450d4ddf8495c184e8be48fd12ba6505
+      internalID: 21300020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Breakable Walls_11
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 391
+        width: 97
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -2.5, y: -9}
+        - {x: -5.5, y: -12}
+        - {x: -11.5, y: -22}
+        - {x: -29.5, y: -21}
+        - {x: -35.5, y: -14}
+        - {x: -38.5, y: -5}
+        - {x: -39.5, y: 9}
+        - {x: -37.5, y: 19}
+        - {x: -30.5, y: 25}
+        - {x: -17.5, y: 26}
+        - {x: -13.5, y: 24}
+        - {x: -9.5, y: 16}
+        - {x: -2.5, y: 16}
+        - {x: 40.5, y: 10}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59ba2007a54d5aa4aaa21de1352bffe9
+      internalID: 21300022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Breakable Walls_12
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 282
+        width: 61
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -1.5, y: -21.5}
+        - {x: -13.5, y: -18.5}
+        - {x: -21.5, y: -9.5}
+        - {x: -24.5, y: 1.5}
+        - {x: -22.5, y: 14.5}
+        - {x: -16.5, y: 22.5}
+        - {x: -9.5, y: 22.5}
+        - {x: -4.5, y: 27.5}
+        - {x: 7.5, y: 27.5}
+        - {x: 15.5, y: 22.5}
+        - {x: 21.5, y: 14.5}
+        - {x: 22.5, y: 1.5}
+        - {x: 20.5, y: -9.5}
+        - {x: 11.5, y: -18.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: df930e1fd2ea1f444ac86ae756176111
+      internalID: 21300024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Breakable Walls_13
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 701
+        width: 194
+        height: 111
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 28, y: -23.5}
+        - {x: 0, y: -37.5}
+        - {x: -18, y: -41.5}
+        - {x: -34, y: -46.5}
+        - {x: -54, y: -43.5}
+        - {x: -57, y: -39.5}
+        - {x: -59, y: -30.5}
+        - {x: -63, y: -27.5}
+        - {x: -71, y: 20.5}
+        - {x: -76, y: 38.5}
+        - {x: -85, y: 48.5}
+        - {x: 83, y: 48.5}
+        - {x: 81, y: 38.5}
+        - {x: 71, y: 19.5}
+        - {x: 60, y: 7.5}
+        - {x: 33, y: -12.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: e96f1e306baeb6a4dbfdd1fa9b7f7707
+      internalID: 21300026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Breakable Walls_14
+      rect:
+        serializedVersion: 2
+        x: 851
+        y: 580
+        width: 216
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -104, y: -46}
+        - {x: -102, y: -36}
+        - {x: -95, y: -18}
+        - {x: -85, y: -10}
+        - {x: -68, y: 31}
+        - {x: -58, y: 43}
+        - {x: -49, y: 36}
+        - {x: -43, y: 9}
+        - {x: -27, y: 7}
+        - {x: -19, y: 12}
+        - {x: -5, y: 17}
+        - {x: 27, y: 18}
+        - {x: 30, y: 23}
+        - {x: 45, y: 16}
+        - {x: 51, y: 3}
+        - {x: 63, y: -5}
+        - {x: 70, y: -12}
+        - {x: 84, y: -19}
+        - {x: 93, y: -28}
+        - {x: 99, y: -46}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1971e8fe76641d84e8c318643f424ec4
+      internalID: 21300028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Breakable Walls_15
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 380
+        width: 69
+        height: 189
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -2.5, y: -84.5}
+        - {x: -18.5, y: -82.5}
+        - {x: -23.5, y: -80.5}
+        - {x: -17.5, y: -34.5}
+        - {x: -13.5, y: -28.5}
+        - {x: -4.5, y: 36.5}
+        - {x: -7.5, y: 42.5}
+        - {x: -0.5, y: 87.5}
+        - {x: 4.5, y: 89.5}
+        - {x: 20.5, y: 87.5}
+        - {x: 25.5, y: 85.5}
+        - {x: 19.5, y: 39.5}
+        - {x: 15.5, y: 33.5}
+        - {x: 5.5, y: -31.5}
+        - {x: 8.5, y: -39.5}
+        - {x: 2.5, y: -83.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4b128b06946a534baa4faf57a4b3bf3
+      internalID: 21300030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Breakable Walls_16
+      rect:
+        serializedVersion: 2
+        x: 942
+        y: 453
+        width: 44
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -15, y: -9.5}
+        - {x: -15, y: 2.5}
+        - {x: -12, y: 14.5}
+        - {x: 17, y: 10.5}
+        - {x: 16, y: -1.5}
+        - {x: 14, y: -13.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: a226806ec3443194388674a508b71912
+      internalID: 21300032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Breakable Walls_17
+      rect:
+        serializedVersion: 2
+        x: 1005
+        y: 504
+        width: 51
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 13.5, y: -13}
+        - {x: -5.5, y: -20}
+        - {x: -15.5, y: -8}
+        - {x: -16.5, y: 7}
+        - {x: -9.5, y: 14}
+        - {x: 2.5, y: 16}
+        - {x: 11.5, y: 10}
+        - {x: 17.5, y: -4}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fdd0cb97e646454cb9aaf58a5cb3778
+      internalID: 21300034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Breakable Walls_18
+      rect:
+        serializedVersion: 2
+        x: 1004
+        y: 448
+        width: 53
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 7.5, y: -10}
+        - {x: -3.5, y: -12}
+        - {x: -14.5, y: -3}
+        - {x: -15.5, y: 4}
+        - {x: -10.5, y: 9}
+        - {x: 2.5, y: 9}
+        - {x: 11.5, y: -2}
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9544af2c23132e4a87bd2fc86d5f777
+      internalID: 21300036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Breakable Walls_19
+      rect:
+        serializedVersion: 2
+        x: 1011
+        y: 382
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 2, y: -9}
+        - {x: -9, y: -9}
+        - {x: -11, y: -6}
+        - {x: -10, y: 2}
+        - {x: -3, y: 7}
+        - {x: 6, y: 10}
+        - {x: 12, y: 5}
+        - {x: 12, y: 1}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16c198601fbe0fa4e992acaccd0140e4
+      internalID: 21300038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Breakable Walls_20
+      rect:
+        serializedVersion: 2
+        x: 822
+        y: 83
+        width: 108
+        height: 288
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 2, y: -134}
+        - {x: -3, y: -123}
+        - {x: -17, y: -51}
+        - {x: -22, y: -23}
+        - {x: -25, y: -9}
+        - {x: -44, y: 22}
+        - {x: -48, y: 29}
+        - {x: -44, y: 69}
+        - {x: -25, y: 137}
+        - {x: -13, y: 138}
+        - {x: -6, y: 116}
+        - {x: 0, y: 115}
+        - {x: 1, y: 105}
+        - {x: 1, y: 99}
+        - {x: 27, y: 41}
+        - {x: 29, y: 34}
+        - {x: 34, y: 29}
+        - {x: 31, y: -26}
+        - {x: 31, y: -40}
+        - {x: 42, y: -102}
+        - {x: 19, y: -137}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20661d1a0f24254498afb953b7377091
+      internalID: 21300040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Breakable Walls_21
+      rect:
+        serializedVersion: 2
+        x: 962
+        y: 86
+        width: 134
+        height: 275
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -8, y: -111.5}
+        - {x: -43, y: -127.5}
+        - {x: -56, y: -122.5}
+        - {x: -55, y: -110.5}
+        - {x: -32, y: -31.5}
+        - {x: -26, y: -12.5}
+        - {x: -23, y: 4.5}
+        - {x: -25.410461, y: 24.642792}
+        - {x: -25, y: 50.5}
+        - {x: -22, y: 72.5}
+        - {x: -22, y: 98.5}
+        - {x: -15, y: 104.5}
+        - {x: 18, y: 121.5}
+        - {x: 41, y: 129.5}
+        - {x: 54, y: 124.5}
+        - {x: 55, y: 50.5}
+        - {x: 51, y: 28.5}
+        - {x: 36, y: -10.5}
+        - {x: 18, y: -65.5}
+        - {x: 24, y: -69.5}
+        - {x: 24, y: -81.5}
+        - {x: 23, y: -90.5}
+        - {x: 19, y: -97.5}
+        - {x: 11, y: -98.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: da23212f2084e8544b4235d5324557de
+      internalID: 21300042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Breakable Walls_22
+      rect:
+        serializedVersion: 2
+        x: 1148
+        y: 613
+        width: 195
+        height: 197
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 34.5, y: -58.5}
+        - {x: 20.5, y: -69.5}
+        - {x: -15.5, y: -88.5}
+        - {x: -35.5, y: -74.5}
+        - {x: -39.5, y: -57.5}
+        - {x: -48.5, y: -42.5}
+        - {x: -65.5, y: -18.5}
+        - {x: -90.5, y: 71.5}
+        - {x: -66.5, y: 87.5}
+        - {x: -48.5, y: 90.5}
+        - {x: -35.5, y: 88.5}
+        - {x: -21.5, y: 90.5}
+        - {x: 5.5, y: 89.5}
+        - {x: 15.5, y: 81.5}
+        - {x: 22.5, y: 83.5}
+        - {x: 40.5, y: 83.5}
+        - {x: 58.5, y: 80.5}
+        - {x: 64.5, y: 68.5}
+        - {x: 55.5, y: 43.5}
+        - {x: 65.5, y: 27.5}
+        - {x: 84.5, y: -4.5}
+        - {x: 76.5, y: -17.5}
+        - {x: 63.5, y: -33.5}
+        - {x: 57.5, y: -50.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: a891f62223fdeef46b74604d88d4ee5d
+      internalID: 21300044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Breakable Walls_23
+      rect:
+        serializedVersion: 2
+        x: 1188
+        y: 425
+        width: 104
+        height: 169
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 27, y: -78.5}
+        - {x: 6, y: -56.5}
+        - {x: -15, y: -43.5}
+        - {x: -34, y: -33.5}
+        - {x: -35, y: 1.5}
+        - {x: -42, y: 43.5}
+        - {x: -40, y: 55.5}
+        - {x: -23, y: 69.5}
+        - {x: -2, y: 77.5}
+        - {x: 10, y: 74.5}
+        - {x: 30, y: 53.5}
+        - {x: 33, y: 34.5}
+        - {x: 30, y: -3.5}
+        - {x: 38, y: -72.5}
+        - {x: 34, y: -78.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: b81cdcb516771e2409eefbedf55772ed
+      internalID: 21300046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Breakable Walls_24
+      rect:
+        serializedVersion: 2
+        x: 1197
+        y: 172
+        width: 108
+        height: 252
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 0, y: -110}
+        - {x: -3, y: -93}
+        - {x: -10, y: -77}
+        - {x: -21, y: -41}
+        - {x: -39, y: -32}
+        - {x: -42, y: -5}
+        - {x: -46, y: 115}
+        - {x: -20, y: 122}
+        - {x: 6, y: 89}
+        - {x: 27, y: 70}
+        - {x: 35, y: -3}
+        - {x: 42, y: -36}
+        - {x: 46, y: -81}
+        - {x: 16, y: -115}
+      tessellationDetail: 0
+      bones: []
+      spriteID: f80aaafb090eca641bff73804eaa6fbd
+      internalID: 21300048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Breakable Walls_25
+      rect:
+        serializedVersion: 2
+        x: 1364
+        y: 656
+        width: 103
+        height: 142
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 8.5, y: -63}
+        - {x: -14.5, y: -57}
+        - {x: -35.5, y: -30}
+        - {x: -41.5, y: -15}
+        - {x: -21.5, y: 54}
+        - {x: -17.5, y: 60}
+        - {x: -5.5, y: 65}
+        - {x: 9.5, y: 65}
+        - {x: 25.5, y: 60}
+        - {x: 32.5, y: 51}
+        - {x: 36.5, y: 36}
+        - {x: 36.5, y: 12}
+        - {x: 33.5, y: -22}
+        - {x: 21.5, y: -53}
+      tessellationDetail: 0
+      bones: []
+      spriteID: f19e5c40a73e5494f8d2df851d043a97
+      internalID: 21300050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Breakable Walls_26
+      rect:
+        serializedVersion: 2
+        x: 1327
+        y: 298
+        width: 174
+        height: 297
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 35, y: -117.5}
+        - {x: 20, y: -131.5}
+        - {x: -2, y: -135.5}
+        - {x: -17, y: -134.5}
+        - {x: -32, y: -128.5}
+        - {x: -46, y: -116.5}
+        - {x: -56, y: -98.5}
+        - {x: -55, y: -83.5}
+        - {x: -44, y: -44.5}
+        - {x: -68, y: 50.5}
+        - {x: -65, y: 63.5}
+        - {x: -35, y: 119.5}
+        - {x: -15, y: 141.5}
+        - {x: 9, y: 146.5}
+        - {x: 25, y: 136.5}
+        - {x: 62, y: 63.5}
+        - {x: 76, y: 12.5}
+        - {x: 75, y: 3.5}
+        - {x: 42, y: -103.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: f59eb44df1788144a9bba645b4152f05
+      internalID: 21300052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Breakable Walls_27
+      rect:
+        serializedVersion: 2
+        x: 1493
+        y: 643
+        width: 77
+        height: 158
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -8.5, y: -64}
+        - {x: -15.5, y: -51}
+        - {x: -19.5, y: -41}
+        - {x: -21.5, y: -29}
+        - {x: -29.5, y: -18}
+        - {x: -26.5, y: 52}
+        - {x: -19.5, y: 59}
+        - {x: -5.5, y: 62}
+        - {x: 10.5, y: 71}
+        - {x: 19.5, y: 71}
+        - {x: 25.5, y: 67}
+        - {x: 27.5, y: 5}
+        - {x: 21.5, y: -20}
+        - {x: 2.5, y: -72}
+      tessellationDetail: 0
+      bones: []
+      spriteID: d64ea7aeb0d073940a7ddf8ee4f1ed48
+      internalID: 21300054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Breakable Walls_28
+      rect:
+        serializedVersion: 2
+        x: 1617
+        y: 683
+        width: 78
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 25, y: -33.5}
+        - {x: 12, y: -38.5}
+        - {x: -3, y: -38.5}
+        - {x: -24, y: -30.5}
+        - {x: -31, y: -16.5}
+        - {x: -29, y: 9.5}
+        - {x: -20, y: 24.5}
+        - {x: -11, y: 34.5}
+        - {x: 11, y: 40.5}
+        - {x: 18, y: 40.5}
+        - {x: 25, y: 33.5}
+        - {x: 31, y: -3.5}
+        - {x: 30, y: -25.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: f22dcd727927d224ea251527df6c39b0
+      internalID: 21300056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Breakable Walls_29
+      rect:
+        serializedVersion: 2
+        x: 1755
+        y: 689
+        width: 53
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -15.5, y: -36.5}
+        - {x: -16.5, y: 0.5}
+        - {x: -7.5, y: 36.5}
+        - {x: 10.5, y: 37.5}
+        - {x: 15.5, y: 28.5}
+        - {x: 17.5, y: -2.5}
+        - {x: 13.5, y: -10.5}
+        - {x: 13.5, y: -24.5}
+        - {x: -2.5, y: -37.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: b66287878acb6a349b7551a82a5b021a
+      internalID: 21300058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Breakable Walls_30
+      rect:
+        serializedVersion: 2
+        x: 1879
+        y: 692
+        width: 39
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -3.5, y: -36}
+        - {x: -7.5, y: -28}
+        - {x: -9.5, y: -7}
+        - {x: -9.5, y: 13}
+        - {x: -6.5, y: 37}
+        - {x: 5.5, y: 37}
+        - {x: 11.5, y: 10}
+        - {x: 11.5, y: -16}
+        - {x: 7.5, y: -36}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 685bb81d8558c0441abebe15e55a1711
+      internalID: 21300060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Breakable Walls_31
+      rect:
+        serializedVersion: 2
+        x: 1571
+        y: 322
+        width: 133
+        height: 266
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 33.5, y: -121}
+        - {x: 24.5, y: -117}
+        - {x: -16.5, y: -16}
+        - {x: -46.5, y: 18}
+        - {x: -49.5, y: 55}
+        - {x: -45.5, y: 120}
+        - {x: -34.5, y: 122}
+        - {x: -23.5, y: 105}
+        - {x: -16.5, y: 103}
+        - {x: -14.5, y: 91}
+        - {x: 23.5, y: 37}
+        - {x: 29.5, y: 31}
+        - {x: 35.5, y: -12}
+        - {x: 42.5, y: -42}
+        - {x: 59.5, y: -82}
+        - {x: 58.5, y: -91}
+        - {x: 45.5, y: -121}
+      tessellationDetail: 0
+      bones: []
+      spriteID: d31b9e2a9d1dd3d4d9141cc1fdcf096f
+      internalID: 21300062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Breakable Walls_32
+      rect:
+        serializedVersion: 2
+        x: 1807
+        y: 332
+        width: 120
+        height: 268
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 21, y: -65}
+        - {x: 22, y: -75}
+        - {x: 21, y: -86}
+        - {x: 15, y: -91}
+        - {x: 10, y: -92}
+        - {x: -37, y: -121}
+        - {x: -49, y: -119}
+        - {x: -52, y: -113}
+        - {x: -46, y: -81}
+        - {x: -37, y: -52}
+        - {x: -33, y: -28}
+        - {x: -29, y: -14}
+        - {x: -27, y: 5}
+        - {x: -31.940063, y: 35.067993}
+        - {x: -31, y: 91}
+        - {x: -12, y: 104}
+        - {x: 22, y: 121}
+        - {x: 37, y: 119}
+        - {x: 43, y: 48}
+        - {x: 40, y: 29}
+        - {x: 27, y: -12}
+        - {x: 16, y: -59}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bde12c48ae4128449b17b68d62cffab
+      internalID: 21300064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: be7678fa4b879754b941e7580e41b5b2
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Breakable Walls_0: 21300000
+      Breakable Walls_1: 21300002
+      Breakable Walls_10: 21300020
+      Breakable Walls_11: 21300022
+      Breakable Walls_12: 21300024
+      Breakable Walls_13: 21300026
+      Breakable Walls_14: 21300028
+      Breakable Walls_15: 21300030
+      Breakable Walls_16: 21300032
+      Breakable Walls_17: 21300034
+      Breakable Walls_18: 21300036
+      Breakable Walls_19: 21300038
+      Breakable Walls_2: 21300004
+      Breakable Walls_20: 21300040
+      Breakable Walls_21: 21300042
+      Breakable Walls_22: 21300044
+      Breakable Walls_23: 21300046
+      Breakable Walls_24: 21300048
+      Breakable Walls_25: 21300050
+      Breakable Walls_26: 21300052
+      Breakable Walls_27: 21300054
+      Breakable Walls_28: 21300056
+      Breakable Walls_29: 21300058
+      Breakable Walls_3: 21300006
+      Breakable Walls_30: 21300060
+      Breakable Walls_31: 21300062
+      Breakable Walls_32: 21300064
+      Breakable Walls_4: 21300008
+      Breakable Walls_5: 21300010
+      Breakable Walls_6: 21300012
+      Breakable Walls_7: 21300014
+      Breakable Walls_8: 21300016
+      Breakable Walls_9: 21300018
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
